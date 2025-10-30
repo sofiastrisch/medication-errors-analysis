@@ -1,0 +1,1001 @@
+report_id,drug_name,error_type,severity,outcome,nurse_shift,patient_age,event_date,department,patient_sex
+1,Metformin,Wrong dose,Moderate,Harm,Day,61,3/3/2025,ER,Female
+2,Heparin,Wrong route,Severe,Death,Night,76,1/21/2025,ER,Male
+3,Furosemide,Delay,Mild,Harm,Day,84,7/8/2025,ER,Male
+4,Insulin,Wrong patient,Moderate,No harm,Day,81,10/12/2025,ER,Male
+5,Metformin,Wrong route,Moderate,Death,Day,58,6/27/2025,Oncology,Female
+6,Warfarin,Delay,Moderate,Death,Night,60,10/13/2025,ICU,Female
+7,Furosemide,Omission,Moderate,No harm,Night,57,11/21/2024,ER,Male
+8,Warfarin,Delay,Severe,No harm,Day,34,1/3/2025,ER,Female
+9,Warfarin,Wrong patient,Moderate,No harm,Day,79,2/26/2025,ICU,Male
+10,Insulin,Wrong route,Mild,No harm,Night,31,8/25/2025,ICU,Female
+11,Morphine,Omission,Moderate,Harm,Night,32,4/7/2025,Pediatrics,Female
+12,Morphine,Omission,Mild,Death,Night,75,10/16/2025,ICU,Male
+13,Heparin,Wrong dose,Moderate,Death,Night,2,2/16/2025,Med-Surg,Female
+14,Amoxicillin,Wrong dose,Moderate,Harm,Day,15,7/28/2025,ICU,Female
+15,Aspirin,Wrong patient,Mild,No harm,Night,29,2/16/2025,ER,Male
+16,Warfarin,Delay,Mild,No harm,Night,93,7/8/2025,ICU,Male
+17,Aspirin,Omission,Mild,No harm,Night,46,10/29/2024,ICU,Female
+18,Heparin,Wrong patient,Moderate,No harm,Night,8,4/28/2025,Pediatrics,Female
+19,Heparin,Delay,Moderate,Harm,Night,27,11/27/2024,ER,Male
+20,Aspirin,Wrong patient,Moderate,No harm,Night,67,2/5/2025,Med-Surg,Female
+21,Metformin,Wrong dose,Moderate,No harm,Night,24,2/20/2025,Med-Surg,Female
+22,Warfarin,Wrong route,Mild,No harm,Night,32,3/5/2025,ER,Female
+23,Warfarin,Wrong route,Severe,No harm,Night,55,12/26/2024,Oncology,Female
+24,Morphine,Omission,Severe,Harm,Night,35,4/6/2025,Med-Surg,Male
+25,Insulin,Omission,Severe,No harm,Day,9,5/17/2025,ER,Female
+26,Furosemide,Wrong patient,Moderate,Harm,Day,41,11/18/2024,ER,Female
+27,Warfarin,Wrong dose,Moderate,No harm,Night,42,10/24/2025,ICU,Male
+28,Warfarin,Delay,Moderate,Harm,Night,79,11/15/2024,Pediatrics,Female
+29,Morphine,Omission,Severe,No harm,Day,68,4/15/2025,ICU,Male
+30,Metformin,Wrong patient,Mild,Harm,Night,95,6/8/2025,ER,Male
+31,Insulin,Omission,Mild,Death,Day,63,12/17/2024,Pediatrics,Female
+32,Morphine,Wrong route,Mild,No harm,Night,65,11/9/2024,Pediatrics,Male
+33,Insulin,Wrong patient,Moderate,Death,Night,27,9/19/2025,Med-Surg,Male
+34,Amoxicillin,Delay,Mild,Death,Day,35,7/3/2025,Pediatrics,Female
+35,Furosemide,Wrong route,Mild,No harm,Night,2,10/20/2025,ER,Female
+36,Furosemide,Delay,Mild,No harm,Day,19,11/19/2024,Med-Surg,Female
+37,Morphine,Wrong dose,Moderate,Death,Night,58,7/26/2025,Pediatrics,Male
+38,Heparin,Omission,Moderate,Harm,Night,83,8/13/2025,ICU,Female
+39,Metformin,Wrong patient,Mild,Harm,Day,23,3/16/2025,Oncology,Female
+40,Morphine,Wrong patient,Mild,No harm,Night,10,9/10/2025,ICU,Male
+41,Morphine,Omission,Mild,No harm,Night,78,1/9/2025,ER,Male
+42,Heparin,Omission,Moderate,Death,Day,69,8/20/2025,Med-Surg,Male
+43,Amoxicillin,Delay,Moderate,Harm,Day,52,10/2/2025,ICU,Male
+44,Metformin,Wrong route,Severe,Harm,Day,72,8/8/2025,Pediatrics,Female
+45,Furosemide,Wrong patient,Moderate,Death,Night,19,8/9/2025,Med-Surg,Male
+46,Heparin,Wrong patient,Mild,No harm,Night,75,10/24/2025,Pediatrics,Female
+47,Furosemide,Wrong patient,Mild,No harm,Day,83,12/7/2024,ICU,Male
+48,Warfarin,Wrong patient,Mild,No harm,Day,62,5/3/2025,Pediatrics,Female
+49,Amoxicillin,Wrong dose,Moderate,No harm,Night,30,5/14/2025,Pediatrics,Male
+50,Morphine,Wrong dose,Severe,Harm,Night,19,4/10/2025,ER,Male
+51,Metformin,Omission,Severe,No harm,Day,18,4/18/2025,Oncology,Male
+52,Amoxicillin,Delay,Moderate,No harm,Night,72,7/17/2025,Med-Surg,Male
+53,Insulin,Wrong patient,Mild,No harm,Night,87,7/26/2025,ICU,Female
+54,Amoxicillin,Wrong route,Mild,No harm,Day,13,8/14/2025,ER,Male
+55,Aspirin,Delay,Mild,No harm,Night,58,9/23/2025,Med-Surg,Female
+56,Insulin,Wrong route,Moderate,No harm,Night,91,3/17/2025,Oncology,Male
+57,Metformin,Wrong dose,Moderate,No harm,Night,17,12/10/2024,Med-Surg,Male
+58,Morphine,Delay,Mild,Harm,Day,71,3/18/2025,Pediatrics,Male
+59,Furosemide,Wrong route,Severe,No harm,Night,62,6/11/2025,ER,Male
+60,Heparin,Delay,Mild,No harm,Day,66,2/24/2025,Pediatrics,Male
+61,Metformin,Wrong dose,Severe,Death,Day,66,5/23/2025,ER,Female
+62,Heparin,Omission,Moderate,Harm,Night,81,3/16/2025,Oncology,Male
+63,Warfarin,Delay,Mild,Harm,Night,59,6/3/2025,Pediatrics,Male
+64,Metformin,Omission,Moderate,No harm,Night,42,2/21/2025,Pediatrics,Female
+65,Insulin,Wrong patient,Mild,Harm,Day,2,4/21/2025,ICU,Male
+66,Metformin,Wrong patient,Moderate,Death,Day,83,9/10/2025,ER,Male
+67,Insulin,Wrong patient,Moderate,No harm,Night,29,9/10/2025,ER,Female
+68,Amoxicillin,Wrong patient,Severe,No harm,Day,36,2/26/2025,Med-Surg,Male
+69,Insulin,Omission,Moderate,No harm,Night,76,12/12/2024,Med-Surg,Female
+70,Warfarin,Wrong route,Moderate,Harm,Night,63,4/26/2025,Med-Surg,Male
+71,Aspirin,Wrong dose,Mild,Death,Day,91,5/9/2025,Med-Surg,Male
+72,Insulin,Delay,Moderate,No harm,Day,89,4/4/2025,Oncology,Female
+73,Heparin,Wrong dose,Moderate,Harm,Day,31,8/10/2025,ER,Male
+74,Heparin,Delay,Mild,No harm,Night,77,12/5/2024,Pediatrics,Male
+75,Aspirin,Wrong dose,Moderate,Harm,Night,19,7/18/2025,Oncology,Female
+76,Insulin,Omission,Mild,Death,Night,80,7/6/2025,Med-Surg,Male
+77,Amoxicillin,Omission,Severe,Death,Night,72,12/16/2024,ICU,Male
+78,Metformin,Omission,Moderate,Harm,Day,15,2/8/2025,Med-Surg,Male
+79,Furosemide,Omission,Moderate,Harm,Day,87,11/13/2024,Oncology,Male
+80,Amoxicillin,Omission,Severe,Death,Day,68,2/26/2025,ICU,Male
+81,Morphine,Omission,Severe,Harm,Night,32,8/14/2025,Med-Surg,Male
+82,Insulin,Delay,Moderate,No harm,Night,9,2/16/2025,ICU,Female
+83,Amoxicillin,Wrong dose,Severe,Death,Day,36,8/27/2025,Med-Surg,Male
+84,Morphine,Wrong patient,Mild,No harm,Day,66,4/17/2025,ER,Female
+85,Furosemide,Wrong patient,Moderate,No harm,Day,51,8/8/2025,ER,Male
+86,Amoxicillin,Omission,Mild,No harm,Day,42,1/11/2025,ICU,Male
+87,Heparin,Wrong dose,Severe,Death,Night,35,8/10/2025,Oncology,Male
+88,Aspirin,Wrong route,Mild,No harm,Day,65,7/22/2025,Oncology,Female
+89,Morphine,Wrong patient,Moderate,No harm,Day,29,8/17/2025,Med-Surg,Male
+90,Heparin,Omission,Mild,No harm,Day,2,8/29/2025,ER,Female
+91,Amoxicillin,Wrong patient,Moderate,Death,Day,47,2/14/2025,Pediatrics,Female
+92,Amoxicillin,Wrong dose,Mild,No harm,Night,13,11/4/2024,Pediatrics,Male
+93,Insulin,Wrong route,Mild,No harm,Night,47,6/2/2025,ER,Female
+94,Morphine,Wrong patient,Mild,Death,Night,59,4/9/2025,Med-Surg,Male
+95,Amoxicillin,Delay,Mild,No harm,Night,45,5/9/2025,ICU,Female
+96,Warfarin,Wrong dose,Moderate,No harm,Night,6,1/28/2025,Pediatrics,Male
+97,Metformin,Wrong dose,Mild,Harm,Night,46,2/13/2025,ICU,Male
+98,Amoxicillin,Wrong patient,Mild,No harm,Day,22,10/9/2025,ICU,Male
+99,Insulin,Wrong patient,Mild,No harm,Night,5,7/17/2025,Oncology,Female
+100,Heparin,Wrong dose,Moderate,Harm,Night,14,7/17/2025,Oncology,Male
+101,Metformin,Wrong patient,Moderate,No harm,Night,78,10/1/2025,Pediatrics,Male
+102,Warfarin,Wrong route,Severe,Death,Day,50,3/26/2025,ER,Female
+103,Warfarin,Delay,Severe,No harm,Day,65,10/1/2025,Pediatrics,Male
+104,Heparin,Omission,Severe,Harm,Night,1,3/23/2025,ER,Male
+105,Heparin,Wrong dose,Mild,No harm,Night,77,4/8/2025,Med-Surg,Male
+106,Furosemide,Delay,Moderate,No harm,Night,72,11/9/2024,Pediatrics,Female
+107,Morphine,Delay,Mild,Death,Day,78,12/20/2024,ICU,Male
+108,Aspirin,Wrong route,Mild,Harm,Day,40,9/5/2025,Med-Surg,Female
+109,Amoxicillin,Delay,Mild,Harm,Night,65,6/14/2025,ICU,Female
+110,Amoxicillin,Delay,Mild,Harm,Night,35,12/30/2024,ER,Male
+111,Morphine,Wrong route,Moderate,No harm,Night,20,2/19/2025,Oncology,Male
+112,Metformin,Omission,Moderate,No harm,Day,19,11/9/2024,ICU,Female
+113,Aspirin,Wrong route,Mild,Harm,Night,13,9/6/2025,Oncology,Male
+114,Morphine,Wrong route,Severe,Harm,Night,8,5/10/2025,Pediatrics,Female
+115,Furosemide,Wrong patient,Moderate,Death,Night,55,8/6/2025,Oncology,Male
+116,Warfarin,Wrong route,Mild,Death,Night,77,11/23/2024,ER,Male
+117,Morphine,Wrong dose,Mild,No harm,Day,62,7/15/2025,ICU,Female
+118,Aspirin,Delay,Severe,Harm,Night,83,7/26/2025,ER,Male
+119,Furosemide,Delay,Mild,No harm,Night,76,1/15/2025,Oncology,Male
+120,Metformin,Wrong route,Mild,Death,Night,23,3/23/2025,Pediatrics,Female
+121,Warfarin,Delay,Moderate,Harm,Night,33,4/24/2025,Pediatrics,Male
+122,Warfarin,Omission,Moderate,No harm,Day,84,7/16/2025,ER,Female
+123,Metformin,Wrong patient,Severe,Death,Night,61,1/16/2025,Oncology,Female
+124,Warfarin,Wrong patient,Moderate,No harm,Night,70,6/19/2025,ER,Male
+125,Furosemide,Wrong route,Moderate,Harm,Night,35,12/27/2024,Pediatrics,Female
+126,Insulin,Wrong dose,Mild,No harm,Day,71,8/24/2025,ICU,Female
+127,Furosemide,Wrong dose,Mild,Harm,Night,16,6/17/2025,Oncology,Female
+128,Warfarin,Wrong route,Moderate,Harm,Day,52,6/20/2025,Oncology,Male
+129,Aspirin,Omission,Severe,No harm,Night,16,12/30/2024,Med-Surg,Female
+130,Metformin,Wrong route,Moderate,No harm,Night,94,8/5/2025,Med-Surg,Male
+131,Aspirin,Omission,Moderate,Harm,Day,28,2/22/2025,Med-Surg,Male
+132,Warfarin,Delay,Severe,No harm,Night,39,1/19/2025,Oncology,Female
+133,Furosemide,Delay,Moderate,Harm,Day,12,3/17/2025,Pediatrics,Male
+134,Heparin,Delay,Mild,No harm,Day,47,4/28/2025,Pediatrics,Male
+135,Morphine,Delay,Moderate,No harm,Day,45,1/6/2025,Pediatrics,Male
+136,Morphine,Wrong dose,Moderate,No harm,Day,3,6/7/2025,Pediatrics,Female
+137,Insulin,Omission,Mild,No harm,Night,49,6/3/2025,ER,Female
+138,Morphine,Wrong patient,Mild,Death,Night,24,3/1/2025,Pediatrics,Female
+139,Amoxicillin,Delay,Mild,Harm,Day,26,12/23/2024,ICU,Female
+140,Furosemide,Wrong patient,Mild,Harm,Night,45,12/28/2024,Med-Surg,Male
+141,Warfarin,Delay,Mild,No harm,Night,3,11/5/2024,ICU,Female
+142,Aspirin,Wrong dose,Moderate,Harm,Day,42,10/24/2025,ICU,Female
+143,Furosemide,Delay,Mild,Death,Night,29,2/19/2025,Oncology,Male
+144,Morphine,Wrong route,Moderate,Harm,Day,85,6/13/2025,Med-Surg,Male
+145,Heparin,Wrong patient,Moderate,Death,Day,67,3/26/2025,Med-Surg,Male
+146,Warfarin,Wrong dose,Mild,No harm,Night,44,7/10/2025,Med-Surg,Male
+147,Furosemide,Omission,Mild,No harm,Day,23,3/25/2025,Med-Surg,Male
+148,Insulin,Wrong route,Mild,No harm,Day,21,7/2/2025,ER,Female
+149,Furosemide,Delay,Severe,Harm,Night,89,9/14/2025,Pediatrics,Male
+150,Metformin,Wrong patient,Mild,Harm,Day,32,11/22/2024,ICU,Male
+151,Insulin,Delay,Moderate,No harm,Day,78,9/4/2025,ER,Male
+152,Aspirin,Wrong dose,Severe,Harm,Night,25,8/6/2025,Pediatrics,Male
+153,Heparin,Omission,Severe,Harm,Night,38,5/11/2025,Pediatrics,Male
+154,Furosemide,Wrong dose,Mild,No harm,Day,95,3/21/2025,ER,Female
+155,Warfarin,Wrong dose,Moderate,No harm,Night,34,2/4/2025,Med-Surg,Male
+156,Amoxicillin,Wrong patient,Severe,Harm,Night,78,2/24/2025,ICU,Male
+157,Metformin,Omission,Mild,Harm,Night,92,7/2/2025,Med-Surg,Female
+158,Furosemide,Omission,Moderate,Harm,Day,45,6/24/2025,Oncology,Female
+159,Aspirin,Wrong route,Severe,No harm,Night,3,11/13/2024,Med-Surg,Male
+160,Morphine,Wrong route,Moderate,No harm,Night,85,11/4/2024,Pediatrics,Female
+161,Metformin,Wrong route,Mild,No harm,Night,33,3/6/2025,Pediatrics,Female
+162,Warfarin,Omission,Severe,No harm,Night,16,11/20/2024,Med-Surg,Female
+163,Heparin,Omission,Mild,No harm,Night,7,7/16/2025,ER,Male
+164,Metformin,Wrong dose,Severe,Harm,Night,87,11/14/2024,Oncology,Male
+165,Warfarin,Wrong dose,Severe,No harm,Day,36,3/22/2025,ER,Female
+166,Insulin,Wrong dose,Mild,Harm,Day,94,6/16/2025,Pediatrics,Male
+167,Insulin,Wrong dose,Moderate,No harm,Night,89,7/20/2025,Pediatrics,Male
+168,Metformin,Wrong dose,Moderate,No harm,Day,51,10/19/2025,ER,Male
+169,Morphine,Delay,Severe,Death,Night,38,11/8/2024,Med-Surg,Female
+170,Warfarin,Delay,Mild,No harm,Night,4,10/16/2025,Oncology,Female
+171,Metformin,Wrong route,Moderate,No harm,Night,41,3/20/2025,Med-Surg,Male
+172,Warfarin,Wrong route,Mild,No harm,Night,69,8/30/2025,Med-Surg,Female
+173,Warfarin,Wrong patient,Moderate,No harm,Night,50,11/20/2024,Med-Surg,Female
+174,Warfarin,Wrong dose,Moderate,No harm,Night,27,2/16/2025,ICU,Female
+175,Metformin,Omission,Mild,No harm,Night,8,11/15/2024,ICU,Female
+176,Morphine,Wrong dose,Moderate,No harm,Day,36,11/1/2024,Pediatrics,Male
+177,Aspirin,Wrong route,Mild,Harm,Night,21,2/12/2025,ICU,Female
+178,Warfarin,Wrong patient,Moderate,Harm,Day,25,8/20/2025,Med-Surg,Female
+179,Amoxicillin,Delay,Mild,Harm,Night,79,2/21/2025,ER,Male
+180,Warfarin,Wrong route,Moderate,Harm,Day,35,10/10/2025,ICU,Male
+181,Furosemide,Wrong dose,Mild,Harm,Day,2,9/10/2025,Pediatrics,Male
+182,Heparin,Omission,Moderate,No harm,Day,48,12/17/2024,Oncology,Female
+183,Heparin,Wrong dose,Mild,No harm,Night,41,10/27/2024,Med-Surg,Male
+184,Heparin,Wrong dose,Mild,No harm,Night,22,2/21/2025,ICU,Female
+185,Heparin,Omission,Mild,No harm,Night,69,12/31/2024,Pediatrics,Female
+186,Heparin,Omission,Moderate,Harm,Night,17,6/6/2025,Med-Surg,Female
+187,Aspirin,Wrong dose,Moderate,No harm,Day,31,9/12/2025,Pediatrics,Male
+188,Warfarin,Wrong patient,Severe,Death,Day,15,6/16/2025,ICU,Male
+189,Insulin,Wrong dose,Severe,No harm,Night,75,4/23/2025,Oncology,Female
+190,Metformin,Wrong patient,Mild,Harm,Day,58,7/30/2025,ER,Male
+191,Aspirin,Wrong route,Moderate,Harm,Day,53,9/29/2025,Pediatrics,Female
+192,Morphine,Wrong route,Mild,No harm,Day,55,9/16/2025,ER,Male
+193,Amoxicillin,Omission,Mild,No harm,Night,57,2/17/2025,Oncology,Male
+194,Aspirin,Wrong dose,Moderate,Harm,Night,74,11/7/2024,ER,Female
+195,Amoxicillin,Wrong patient,Severe,Harm,Day,75,2/8/2025,Oncology,Male
+196,Furosemide,Wrong patient,Mild,Harm,Night,84,6/29/2025,ICU,Male
+197,Warfarin,Delay,Moderate,No harm,Night,7,9/12/2025,ER,Male
+198,Amoxicillin,Omission,Mild,Harm,Day,47,7/20/2025,ER,Male
+199,Heparin,Wrong route,Mild,Harm,Day,8,7/2/2025,Oncology,Male
+200,Morphine,Delay,Severe,Harm,Night,60,8/4/2025,ICU,Male
+201,Furosemide,Delay,Moderate,Harm,Day,24,8/8/2025,ICU,Female
+202,Metformin,Wrong dose,Mild,Harm,Day,3,8/26/2025,ICU,Female
+203,Amoxicillin,Omission,Mild,No harm,Night,38,2/24/2025,Pediatrics,Female
+204,Heparin,Delay,Moderate,Harm,Night,94,1/6/2025,Med-Surg,Female
+205,Furosemide,Wrong dose,Severe,Harm,Day,57,2/1/2025,Oncology,Male
+206,Amoxicillin,Wrong dose,Mild,Harm,Night,47,6/3/2025,Oncology,Male
+207,Furosemide,Wrong route,Moderate,No harm,Night,78,12/25/2024,Med-Surg,Male
+208,Furosemide,Wrong dose,Moderate,Harm,Night,18,7/21/2025,ER,Male
+209,Warfarin,Delay,Mild,Harm,Day,40,7/28/2025,ER,Male
+210,Furosemide,Wrong dose,Severe,No harm,Night,13,5/12/2025,Oncology,Female
+211,Amoxicillin,Omission,Mild,Harm,Day,63,4/11/2025,Pediatrics,Male
+212,Warfarin,Wrong dose,Moderate,No harm,Day,65,1/12/2025,Pediatrics,Female
+213,Insulin,Wrong route,Moderate,No harm,Night,74,4/14/2025,Med-Surg,Male
+214,Furosemide,Wrong dose,Moderate,Harm,Night,33,12/14/2024,ICU,Female
+215,Amoxicillin,Delay,Mild,No harm,Day,88,4/28/2025,Pediatrics,Female
+216,Furosemide,Delay,Moderate,Harm,Night,93,5/21/2025,Med-Surg,Male
+217,Heparin,Wrong route,Mild,Harm,Day,71,12/31/2024,Oncology,Female
+218,Metformin,Wrong patient,Severe,Harm,Night,46,3/20/2025,Pediatrics,Female
+219,Metformin,Delay,Moderate,Death,Night,11,9/19/2025,ER,Male
+220,Insulin,Wrong dose,Moderate,No harm,Day,68,12/22/2024,ICU,Male
+221,Furosemide,Wrong patient,Moderate,No harm,Day,15,5/29/2025,ICU,Female
+222,Aspirin,Wrong dose,Moderate,Harm,Night,18,9/10/2025,Oncology,Female
+223,Insulin,Omission,Moderate,Harm,Night,91,9/18/2025,Oncology,Male
+224,Amoxicillin,Delay,Moderate,Harm,Day,18,8/17/2025,Oncology,Female
+225,Aspirin,Wrong route,Mild,Death,Night,49,11/5/2024,Med-Surg,Female
+226,Amoxicillin,Delay,Moderate,No harm,Night,23,9/18/2025,Med-Surg,Male
+227,Warfarin,Wrong dose,Severe,Harm,Night,31,7/26/2025,ICU,Female
+228,Metformin,Wrong patient,Mild,Harm,Night,56,7/16/2025,Oncology,Female
+229,Furosemide,Delay,Mild,Death,Night,56,11/6/2024,Oncology,Female
+230,Warfarin,Wrong dose,Moderate,Harm,Day,83,8/27/2025,Oncology,Male
+231,Amoxicillin,Wrong dose,Severe,Death,Day,45,6/30/2025,Pediatrics,Female
+232,Amoxicillin,Delay,Mild,Harm,Night,63,2/7/2025,Oncology,Male
+233,Warfarin,Wrong route,Moderate,No harm,Night,89,10/18/2025,ER,Male
+234,Warfarin,Wrong route,Mild,Harm,Day,10,12/8/2024,ICU,Male
+235,Morphine,Wrong dose,Mild,No harm,Day,8,8/19/2025,Oncology,Female
+236,Insulin,Omission,Mild,Death,Day,25,5/7/2025,Pediatrics,Female
+237,Metformin,Wrong route,Mild,Harm,Night,13,10/5/2025,Med-Surg,Female
+238,Morphine,Wrong dose,Mild,Harm,Day,7,11/13/2024,Pediatrics,Female
+239,Morphine,Wrong route,Severe,No harm,Day,57,10/5/2025,ICU,Female
+240,Amoxicillin,Delay,Mild,No harm,Day,49,10/12/2025,ER,Male
+241,Furosemide,Delay,Severe,No harm,Day,81,2/12/2025,ICU,Female
+242,Aspirin,Wrong patient,Severe,No harm,Day,22,5/26/2025,Pediatrics,Female
+243,Insulin,Wrong route,Moderate,Harm,Night,84,10/6/2025,ICU,Female
+244,Heparin,Wrong dose,Moderate,No harm,Night,72,12/20/2024,ICU,Male
+245,Morphine,Omission,Mild,Harm,Night,87,4/21/2025,Oncology,Female
+246,Aspirin,Wrong patient,Mild,No harm,Night,15,1/26/2025,Med-Surg,Male
+247,Furosemide,Wrong dose,Mild,Death,Night,52,2/2/2025,Pediatrics,Female
+248,Heparin,Wrong route,Moderate,Death,Day,32,9/22/2025,Oncology,Male
+249,Aspirin,Wrong dose,Mild,Harm,Night,14,12/18/2024,ER,Male
+250,Heparin,Wrong dose,Mild,Harm,Night,46,3/28/2025,ER,Male
+251,Furosemide,Wrong patient,Moderate,No harm,Night,84,10/4/2025,Pediatrics,Female
+252,Furosemide,Wrong patient,Mild,No harm,Day,92,9/8/2025,Pediatrics,Female
+253,Warfarin,Wrong patient,Moderate,Harm,Night,24,5/20/2025,Med-Surg,Female
+254,Amoxicillin,Wrong route,Moderate,Harm,Day,72,5/31/2025,ICU,Male
+255,Furosemide,Wrong route,Moderate,No harm,Night,38,12/7/2024,Oncology,Male
+256,Warfarin,Wrong route,Mild,Harm,Day,2,4/23/2025,ICU,Male
+257,Morphine,Wrong patient,Moderate,Harm,Day,13,5/9/2025,ICU,Female
+258,Furosemide,Wrong dose,Moderate,Harm,Day,66,4/1/2025,ER,Female
+259,Furosemide,Wrong patient,Mild,No harm,Night,79,3/15/2025,Med-Surg,Male
+260,Amoxicillin,Wrong dose,Severe,Harm,Day,68,6/8/2025,Pediatrics,Male
+261,Metformin,Wrong route,Moderate,No harm,Night,51,7/5/2025,ER,Female
+262,Furosemide,Wrong dose,Mild,No harm,Day,8,4/21/2025,Med-Surg,Female
+263,Insulin,Wrong patient,Moderate,Harm,Night,55,8/16/2025,Med-Surg,Female
+264,Heparin,Wrong dose,Moderate,Harm,Night,61,6/13/2025,ICU,Male
+265,Furosemide,Delay,Moderate,No harm,Night,58,12/4/2024,ER,Female
+266,Insulin,Delay,Moderate,No harm,Day,49,10/24/2025,ICU,Female
+267,Warfarin,Wrong patient,Mild,Harm,Day,86,1/19/2025,ICU,Female
+268,Warfarin,Omission,Severe,Harm,Day,60,10/12/2025,Oncology,Male
+269,Aspirin,Wrong dose,Mild,No harm,Night,28,7/6/2025,ICU,Female
+270,Morphine,Wrong patient,Severe,No harm,Night,41,7/31/2025,Oncology,Female
+271,Metformin,Omission,Moderate,No harm,Day,62,5/3/2025,ICU,Female
+272,Heparin,Wrong patient,Moderate,No harm,Day,64,2/20/2025,Med-Surg,Male
+273,Insulin,Wrong dose,Moderate,Harm,Night,23,5/15/2025,Med-Surg,Female
+274,Amoxicillin,Wrong route,Severe,No harm,Night,68,1/8/2025,Med-Surg,Female
+275,Furosemide,Wrong patient,Mild,Harm,Day,80,5/14/2025,Med-Surg,Male
+276,Aspirin,Delay,Mild,Harm,Day,4,7/21/2025,ICU,Male
+277,Heparin,Omission,Moderate,No harm,Night,7,9/25/2025,Med-Surg,Female
+278,Amoxicillin,Omission,Moderate,Harm,Night,67,4/17/2025,ICU,Male
+279,Morphine,Omission,Moderate,No harm,Night,63,12/6/2024,Pediatrics,Male
+280,Furosemide,Wrong patient,Moderate,Harm,Night,53,3/4/2025,ICU,Male
+281,Insulin,Wrong patient,Mild,No harm,Night,15,11/28/2024,ICU,Female
+282,Amoxicillin,Wrong dose,Moderate,Harm,Day,78,1/12/2025,ICU,Female
+283,Morphine,Wrong dose,Mild,Death,Night,49,11/26/2024,Pediatrics,Male
+284,Insulin,Delay,Severe,Harm,Day,11,6/21/2025,Oncology,Female
+285,Aspirin,Delay,Moderate,Harm,Night,95,10/29/2024,Pediatrics,Female
+286,Metformin,Wrong route,Moderate,No harm,Day,68,4/28/2025,Pediatrics,Male
+287,Morphine,Wrong route,Mild,No harm,Night,88,1/15/2025,Oncology,Male
+288,Amoxicillin,Wrong dose,Moderate,No harm,Day,48,11/10/2024,ICU,Male
+289,Heparin,Omission,Mild,No harm,Day,43,10/16/2025,ER,Female
+290,Aspirin,Wrong dose,Severe,No harm,Night,54,10/21/2025,ER,Female
+291,Amoxicillin,Wrong patient,Severe,No harm,Day,71,9/2/2025,Oncology,Male
+292,Morphine,Omission,Moderate,No harm,Day,66,11/10/2024,Oncology,Male
+293,Insulin,Delay,Mild,Harm,Night,6,10/23/2025,ER,Male
+294,Warfarin,Omission,Moderate,No harm,Night,61,11/6/2024,Pediatrics,Male
+295,Heparin,Wrong patient,Severe,Harm,Night,12,4/30/2025,Med-Surg,Male
+296,Metformin,Wrong dose,Severe,No harm,Day,37,5/22/2025,ER,Male
+297,Warfarin,Wrong patient,Severe,No harm,Day,56,11/17/2024,ER,Male
+298,Morphine,Omission,Moderate,No harm,Night,28,6/24/2025,Med-Surg,Female
+299,Insulin,Delay,Moderate,No harm,Night,25,4/25/2025,Pediatrics,Male
+300,Morphine,Delay,Severe,No harm,Day,21,9/27/2025,Oncology,Male
+301,Insulin,Wrong dose,Mild,No harm,Night,77,3/18/2025,ER,Male
+302,Warfarin,Omission,Mild,Death,Night,48,11/25/2024,ICU,Male
+303,Metformin,Wrong route,Moderate,No harm,Night,65,5/4/2025,Med-Surg,Male
+304,Metformin,Delay,Mild,No harm,Day,89,1/1/2025,ICU,Female
+305,Aspirin,Wrong patient,Moderate,No harm,Day,90,5/29/2025,Pediatrics,Female
+306,Amoxicillin,Wrong patient,Moderate,Death,Night,87,1/6/2025,Pediatrics,Male
+307,Heparin,Delay,Mild,No harm,Night,8,6/22/2025,Oncology,Male
+308,Insulin,Wrong dose,Mild,Harm,Night,91,11/20/2024,Oncology,Female
+309,Morphine,Delay,Moderate,Harm,Night,86,1/25/2025,ICU,Female
+310,Warfarin,Wrong route,Mild,No harm,Day,43,8/1/2025,Med-Surg,Male
+311,Warfarin,Omission,Moderate,Death,Day,13,11/28/2024,ICU,Male
+312,Aspirin,Wrong dose,Severe,No harm,Day,66,7/18/2025,ICU,Female
+313,Aspirin,Wrong dose,Mild,Harm,Night,2,8/27/2025,ICU,Male
+314,Aspirin,Wrong patient,Moderate,No harm,Night,42,8/21/2025,Pediatrics,Female
+315,Heparin,Wrong dose,Moderate,Harm,Day,93,11/25/2024,ICU,Male
+316,Insulin,Omission,Moderate,No harm,Night,74,12/21/2024,Pediatrics,Male
+317,Insulin,Wrong patient,Mild,No harm,Night,52,11/6/2024,ER,Male
+318,Morphine,Omission,Severe,Harm,Night,72,2/2/2025,Med-Surg,Male
+319,Warfarin,Wrong dose,Severe,No harm,Day,61,1/1/2025,Oncology,Male
+320,Aspirin,Delay,Moderate,Death,Day,45,3/18/2025,ICU,Male
+321,Furosemide,Wrong route,Severe,No harm,Night,3,1/10/2025,Pediatrics,Female
+322,Aspirin,Omission,Mild,No harm,Night,82,1/13/2025,Med-Surg,Female
+323,Heparin,Omission,Mild,No harm,Day,54,9/9/2025,ICU,Male
+324,Morphine,Delay,Moderate,Death,Night,31,6/12/2025,Med-Surg,Male
+325,Amoxicillin,Delay,Mild,No harm,Night,77,12/9/2024,Oncology,Male
+326,Heparin,Omission,Mild,Harm,Day,57,2/23/2025,ER,Female
+327,Morphine,Wrong patient,Moderate,No harm,Day,91,4/15/2025,ER,Female
+328,Furosemide,Delay,Mild,No harm,Night,67,6/6/2025,Pediatrics,Female
+329,Morphine,Wrong dose,Severe,Death,Night,6,10/26/2025,ER,Male
+330,Heparin,Wrong dose,Mild,No harm,Day,92,4/29/2025,Pediatrics,Male
+331,Warfarin,Wrong dose,Severe,No harm,Day,84,6/21/2025,Med-Surg,Male
+332,Heparin,Delay,Moderate,No harm,Day,86,4/29/2025,Pediatrics,Male
+333,Aspirin,Wrong dose,Severe,Harm,Night,95,8/11/2025,ICU,Male
+334,Warfarin,Wrong route,Mild,Harm,Night,17,11/20/2024,Oncology,Male
+335,Insulin,Wrong patient,Mild,Death,Night,45,9/25/2025,Med-Surg,Female
+336,Furosemide,Wrong route,Severe,No harm,Night,60,1/29/2025,ICU,Male
+337,Heparin,Wrong dose,Moderate,Harm,Day,68,10/4/2025,Med-Surg,Female
+338,Warfarin,Wrong patient,Mild,No harm,Night,34,8/30/2025,ICU,Male
+339,Heparin,Delay,Mild,Harm,Night,64,5/17/2025,Med-Surg,Male
+340,Morphine,Wrong dose,Moderate,Death,Night,69,12/14/2024,ICU,Male
+341,Insulin,Omission,Moderate,No harm,Day,20,6/12/2025,Med-Surg,Male
+342,Morphine,Wrong route,Mild,No harm,Night,70,12/27/2024,ER,Female
+343,Metformin,Omission,Mild,Harm,Day,13,1/3/2025,Med-Surg,Female
+344,Heparin,Delay,Moderate,No harm,Night,75,6/25/2025,Pediatrics,Male
+345,Heparin,Delay,Mild,No harm,Day,36,10/29/2024,Pediatrics,Male
+346,Furosemide,Omission,Mild,No harm,Night,2,3/6/2025,Oncology,Male
+347,Furosemide,Wrong dose,Mild,No harm,Day,15,10/31/2024,Oncology,Female
+348,Metformin,Wrong route,Mild,Harm,Day,8,5/30/2025,ICU,Male
+349,Warfarin,Wrong patient,Mild,Harm,Day,78,8/18/2025,Oncology,Male
+350,Aspirin,Omission,Mild,No harm,Night,90,8/8/2025,Oncology,Female
+351,Warfarin,Wrong dose,Mild,No harm,Day,1,5/18/2025,ER,Male
+352,Amoxicillin,Wrong route,Moderate,No harm,Night,20,2/4/2025,ICU,Female
+353,Amoxicillin,Wrong patient,Mild,Harm,Night,54,12/14/2024,ICU,Female
+354,Aspirin,Wrong patient,Severe,Death,Night,85,12/2/2024,Oncology,Female
+355,Morphine,Omission,Moderate,No harm,Day,41,11/3/2024,ER,Male
+356,Furosemide,Wrong dose,Mild,No harm,Night,26,3/7/2025,Pediatrics,Female
+357,Warfarin,Omission,Moderate,Harm,Night,60,10/18/2025,ICU,Female
+358,Heparin,Wrong route,Moderate,No harm,Night,47,9/16/2025,ER,Female
+359,Warfarin,Delay,Mild,Harm,Day,80,2/17/2025,ER,Male
+360,Warfarin,Delay,Mild,Death,Day,12,6/22/2025,Oncology,Female
+361,Furosemide,Wrong dose,Moderate,No harm,Night,64,5/9/2025,ICU,Male
+362,Warfarin,Wrong dose,Moderate,No harm,Night,31,5/16/2025,ER,Female
+363,Aspirin,Delay,Moderate,Harm,Night,53,7/6/2025,Oncology,Female
+364,Heparin,Omission,Severe,No harm,Day,58,2/26/2025,Pediatrics,Male
+365,Warfarin,Wrong patient,Moderate,No harm,Night,28,9/27/2025,ER,Female
+366,Morphine,Omission,Mild,Harm,Day,74,11/6/2024,ICU,Female
+367,Insulin,Delay,Mild,No harm,Night,55,1/29/2025,ER,Male
+368,Aspirin,Omission,Severe,Harm,Night,79,6/4/2025,ER,Male
+369,Aspirin,Wrong route,Mild,No harm,Night,67,4/16/2025,Oncology,Female
+370,Warfarin,Delay,Moderate,No harm,Night,4,2/12/2025,Oncology,Male
+371,Heparin,Wrong dose,Moderate,Harm,Night,78,4/15/2025,ER,Male
+372,Amoxicillin,Omission,Mild,Death,Day,42,10/20/2025,ER,Female
+373,Heparin,Wrong route,Mild,Death,Day,27,12/24/2024,Pediatrics,Male
+374,Metformin,Wrong dose,Moderate,Harm,Night,20,10/24/2025,Pediatrics,Female
+375,Aspirin,Omission,Severe,Death,Night,37,5/4/2025,Oncology,Male
+376,Metformin,Wrong route,Mild,Harm,Night,30,7/10/2025,ER,Male
+377,Morphine,Omission,Mild,Death,Day,92,1/24/2025,ICU,Male
+378,Amoxicillin,Wrong route,Moderate,Harm,Day,36,5/1/2025,ER,Female
+379,Aspirin,Omission,Moderate,No harm,Day,32,5/1/2025,Med-Surg,Female
+380,Metformin,Wrong route,Moderate,Harm,Night,61,8/5/2025,ICU,Male
+381,Warfarin,Omission,Severe,Death,Day,66,11/1/2024,Oncology,Female
+382,Aspirin,Omission,Severe,Harm,Day,82,11/15/2024,Oncology,Female
+383,Insulin,Delay,Mild,Death,Night,72,2/20/2025,Med-Surg,Female
+384,Morphine,Delay,Severe,Death,Night,8,2/14/2025,ER,Female
+385,Aspirin,Wrong patient,Moderate,Harm,Day,3,8/29/2025,Oncology,Male
+386,Insulin,Delay,Mild,No harm,Day,66,9/30/2025,Pediatrics,Female
+387,Warfarin,Wrong route,Severe,No harm,Day,21,1/8/2025,Oncology,Male
+388,Warfarin,Omission,Moderate,No harm,Night,75,9/2/2025,ER,Male
+389,Warfarin,Wrong patient,Mild,Harm,Night,14,12/19/2024,Pediatrics,Male
+390,Metformin,Delay,Mild,Death,Night,83,8/23/2025,Pediatrics,Female
+391,Metformin,Wrong patient,Severe,Harm,Night,36,9/9/2025,ER,Female
+392,Warfarin,Wrong route,Mild,No harm,Day,34,9/14/2025,ER,Female
+393,Amoxicillin,Wrong route,Mild,Harm,Day,81,9/2/2025,Oncology,Male
+394,Aspirin,Wrong patient,Moderate,No harm,Night,71,11/7/2024,Oncology,Male
+395,Aspirin,Wrong patient,Mild,No harm,Night,5,4/22/2025,Pediatrics,Female
+396,Insulin,Omission,Severe,No harm,Day,34,9/29/2025,Med-Surg,Female
+397,Morphine,Wrong route,Moderate,Harm,Day,82,6/17/2025,ER,Male
+398,Warfarin,Wrong dose,Moderate,No harm,Night,62,9/9/2025,Oncology,Female
+399,Insulin,Wrong patient,Mild,Harm,Night,34,11/9/2024,Oncology,Female
+400,Warfarin,Wrong patient,Mild,Death,Night,63,10/11/2025,Med-Surg,Male
+401,Morphine,Omission,Severe,Death,Night,22,4/11/2025,Med-Surg,Female
+402,Insulin,Wrong route,Moderate,Harm,Day,86,6/10/2025,ER,Female
+403,Heparin,Wrong patient,Moderate,No harm,Day,27,2/1/2025,ER,Male
+404,Warfarin,Wrong route,Mild,Harm,Night,17,8/24/2025,Pediatrics,Female
+405,Morphine,Delay,Mild,No harm,Day,16,8/28/2025,Pediatrics,Female
+406,Warfarin,Wrong patient,Moderate,Death,Night,53,2/8/2025,Pediatrics,Male
+407,Morphine,Omission,Moderate,No harm,Night,59,3/3/2025,ICU,Male
+408,Amoxicillin,Omission,Moderate,Death,Night,6,9/16/2025,Pediatrics,Female
+409,Aspirin,Delay,Moderate,Harm,Day,43,8/31/2025,Pediatrics,Male
+410,Metformin,Wrong dose,Mild,No harm,Night,62,11/16/2024,Oncology,Male
+411,Warfarin,Delay,Moderate,Death,Night,14,6/29/2025,Oncology,Female
+412,Aspirin,Wrong patient,Mild,Harm,Night,69,7/30/2025,Oncology,Female
+413,Aspirin,Delay,Severe,Death,Night,65,4/8/2025,Pediatrics,Male
+414,Insulin,Wrong route,Moderate,No harm,Day,43,7/25/2025,Med-Surg,Female
+415,Aspirin,Wrong dose,Mild,Harm,Day,6,7/30/2025,ER,Male
+416,Metformin,Wrong route,Moderate,Harm,Night,41,2/2/2025,ER,Male
+417,Insulin,Wrong route,Mild,No harm,Day,55,2/15/2025,Oncology,Female
+418,Warfarin,Omission,Mild,Harm,Day,75,3/9/2025,ICU,Female
+419,Morphine,Wrong patient,Mild,No harm,Day,47,7/7/2025,Oncology,Male
+420,Aspirin,Wrong route,Moderate,No harm,Night,85,1/21/2025,ER,Male
+421,Amoxicillin,Omission,Moderate,Harm,Day,79,5/18/2025,Pediatrics,Female
+422,Furosemide,Wrong route,Mild,No harm,Night,78,7/30/2025,Pediatrics,Female
+423,Warfarin,Omission,Moderate,Harm,Night,35,8/17/2025,Med-Surg,Female
+424,Metformin,Omission,Moderate,No harm,Night,3,1/25/2025,ER,Female
+425,Heparin,Omission,Severe,Harm,Night,47,3/2/2025,Med-Surg,Male
+426,Insulin,Delay,Mild,Harm,Night,2,6/16/2025,Pediatrics,Female
+427,Insulin,Wrong route,Moderate,Harm,Day,38,5/25/2025,ICU,Female
+428,Insulin,Omission,Severe,Harm,Night,24,1/4/2025,ICU,Female
+429,Insulin,Wrong dose,Mild,No harm,Night,77,10/1/2025,Pediatrics,Female
+430,Warfarin,Wrong route,Severe,No harm,Day,6,10/25/2025,ER,Female
+431,Insulin,Omission,Severe,Harm,Day,14,2/6/2025,Pediatrics,Male
+432,Morphine,Delay,Mild,Harm,Night,1,3/16/2025,Oncology,Female
+433,Insulin,Wrong dose,Mild,Harm,Day,42,4/4/2025,ER,Female
+434,Aspirin,Delay,Mild,Harm,Night,72,3/14/2025,Oncology,Female
+435,Metformin,Wrong route,Severe,No harm,Day,10,4/28/2025,ER,Male
+436,Insulin,Wrong dose,Mild,Harm,Day,81,5/27/2025,ICU,Male
+437,Furosemide,Delay,Mild,No harm,Day,61,7/30/2025,Med-Surg,Female
+438,Morphine,Omission,Severe,Harm,Night,58,11/27/2024,Pediatrics,Female
+439,Morphine,Wrong patient,Moderate,No harm,Day,7,12/29/2024,Oncology,Female
+440,Aspirin,Wrong route,Mild,No harm,Day,33,8/26/2025,Pediatrics,Female
+441,Metformin,Omission,Moderate,Death,Night,51,12/10/2024,Oncology,Female
+442,Metformin,Wrong patient,Moderate,No harm,Day,38,8/9/2025,Pediatrics,Female
+443,Aspirin,Delay,Severe,No harm,Night,33,7/11/2025,Oncology,Female
+444,Aspirin,Wrong dose,Moderate,Death,Day,78,11/27/2024,Oncology,Female
+445,Warfarin,Wrong dose,Moderate,Harm,Day,89,7/23/2025,Med-Surg,Female
+446,Furosemide,Wrong route,Severe,Harm,Night,49,12/29/2024,ICU,Male
+447,Aspirin,Omission,Moderate,Harm,Night,9,8/15/2025,ICU,Female
+448,Amoxicillin,Delay,Severe,No harm,Night,60,5/21/2025,Pediatrics,Male
+449,Insulin,Wrong dose,Moderate,Harm,Night,74,3/12/2025,ER,Female
+450,Morphine,Wrong dose,Moderate,No harm,Day,60,11/24/2024,Pediatrics,Female
+451,Amoxicillin,Omission,Mild,No harm,Night,3,10/4/2025,Pediatrics,Female
+452,Furosemide,Wrong route,Moderate,No harm,Day,60,1/2/2025,Pediatrics,Female
+453,Warfarin,Wrong patient,Mild,Harm,Night,84,3/9/2025,ER,Female
+454,Morphine,Omission,Severe,Death,Night,52,1/28/2025,Oncology,Male
+455,Amoxicillin,Wrong route,Mild,Death,Day,76,4/16/2025,Oncology,Male
+456,Metformin,Delay,Moderate,Death,Night,46,6/22/2025,Med-Surg,Male
+457,Amoxicillin,Wrong patient,Mild,Harm,Night,19,5/18/2025,ICU,Male
+458,Morphine,Wrong dose,Mild,Harm,Night,63,7/30/2025,Pediatrics,Female
+459,Furosemide,Wrong route,Severe,Harm,Night,90,9/22/2025,Med-Surg,Male
+460,Warfarin,Wrong dose,Mild,No harm,Night,36,11/8/2024,ICU,Male
+461,Insulin,Wrong dose,Severe,No harm,Night,81,1/18/2025,Pediatrics,Female
+462,Amoxicillin,Omission,Moderate,Harm,Day,38,11/11/2024,Oncology,Female
+463,Furosemide,Omission,Moderate,Death,Day,68,3/4/2025,Pediatrics,Female
+464,Morphine,Delay,Mild,No harm,Night,91,8/26/2025,Med-Surg,Female
+465,Furosemide,Delay,Mild,Harm,Day,1,5/10/2025,ICU,Female
+466,Amoxicillin,Wrong patient,Mild,Harm,Night,42,6/26/2025,Pediatrics,Male
+467,Metformin,Omission,Mild,No harm,Night,17,12/7/2024,ER,Female
+468,Warfarin,Omission,Mild,No harm,Night,20,12/8/2024,Oncology,Male
+469,Furosemide,Wrong route,Mild,Harm,Night,63,8/21/2025,Oncology,Female
+470,Insulin,Wrong route,Moderate,Harm,Night,40,6/8/2025,Pediatrics,Female
+471,Amoxicillin,Wrong patient,Moderate,Harm,Day,88,3/24/2025,Oncology,Female
+472,Metformin,Wrong route,Moderate,No harm,Night,15,1/21/2025,ER,Female
+473,Aspirin,Delay,Moderate,No harm,Night,54,4/13/2025,Pediatrics,Female
+474,Insulin,Omission,Severe,Harm,Night,9,7/30/2025,Oncology,Male
+475,Morphine,Wrong route,Severe,Death,Night,90,4/14/2025,ER,Male
+476,Insulin,Omission,Severe,No harm,Night,58,9/10/2025,Oncology,Female
+477,Warfarin,Omission,Moderate,Harm,Night,57,2/19/2025,ICU,Female
+478,Metformin,Wrong patient,Severe,No harm,Night,50,3/1/2025,ICU,Male
+479,Amoxicillin,Wrong patient,Moderate,No harm,Day,10,5/27/2025,ICU,Male
+480,Metformin,Delay,Mild,Harm,Night,30,4/30/2025,Oncology,Female
+481,Aspirin,Wrong patient,Moderate,No harm,Night,38,6/30/2025,ER,Female
+482,Furosemide,Omission,Mild,Harm,Day,49,1/1/2025,Oncology,Male
+483,Amoxicillin,Wrong dose,Severe,Harm,Day,3,2/17/2025,ICU,Female
+484,Insulin,Wrong route,Severe,Harm,Day,43,7/20/2025,ER,Female
+485,Amoxicillin,Delay,Moderate,No harm,Night,18,5/23/2025,ICU,Male
+486,Morphine,Wrong route,Mild,Harm,Night,35,3/23/2025,Pediatrics,Female
+487,Insulin,Wrong patient,Moderate,Death,Night,51,4/21/2025,Pediatrics,Female
+488,Morphine,Omission,Moderate,Harm,Night,38,8/14/2025,ICU,Female
+489,Insulin,Omission,Severe,Harm,Day,67,3/2/2025,Pediatrics,Male
+490,Furosemide,Wrong route,Moderate,Death,Day,35,4/23/2025,Pediatrics,Male
+491,Morphine,Wrong dose,Mild,No harm,Night,52,8/15/2025,Med-Surg,Male
+492,Metformin,Omission,Moderate,Harm,Night,63,4/14/2025,ICU,Female
+493,Metformin,Wrong patient,Severe,No harm,Night,48,4/2/2025,Pediatrics,Female
+494,Heparin,Wrong route,Mild,No harm,Night,12,9/9/2025,Med-Surg,Male
+495,Metformin,Wrong patient,Severe,No harm,Day,31,10/8/2025,Med-Surg,Female
+496,Amoxicillin,Wrong dose,Mild,No harm,Day,17,3/20/2025,Med-Surg,Male
+497,Aspirin,Wrong route,Mild,Death,Day,64,2/18/2025,Pediatrics,Female
+498,Insulin,Wrong patient,Moderate,No harm,Night,34,4/15/2025,Med-Surg,Female
+499,Morphine,Delay,Moderate,No harm,Night,46,7/7/2025,ICU,Female
+500,Furosemide,Wrong route,Mild,Death,Day,13,11/17/2024,ER,Female
+501,Furosemide,Wrong patient,Mild,No harm,Night,15,8/8/2025,Oncology,Male
+502,Metformin,Wrong dose,Moderate,Harm,Night,89,12/22/2024,Oncology,Female
+503,Insulin,Wrong patient,Mild,Harm,Day,24,6/26/2025,ICU,Female
+504,Morphine,Delay,Mild,No harm,Night,50,3/16/2025,ER,Female
+505,Heparin,Wrong patient,Severe,No harm,Night,7,8/27/2025,Oncology,Male
+506,Heparin,Omission,Severe,No harm,Day,32,7/11/2025,ICU,Female
+507,Morphine,Wrong dose,Severe,Harm,Night,76,3/7/2025,Pediatrics,Female
+508,Amoxicillin,Wrong patient,Mild,No harm,Night,19,8/12/2025,ER,Male
+509,Furosemide,Wrong dose,Severe,Death,Night,3,4/19/2025,ER,Male
+510,Amoxicillin,Wrong dose,Moderate,No harm,Night,24,7/11/2025,ICU,Female
+511,Insulin,Delay,Moderate,No harm,Night,72,8/22/2025,ER,Female
+512,Metformin,Wrong dose,Moderate,Harm,Day,38,7/13/2025,Pediatrics,Female
+513,Insulin,Wrong patient,Severe,No harm,Day,92,11/26/2024,Oncology,Male
+514,Morphine,Omission,Moderate,Harm,Day,41,10/16/2025,ICU,Male
+515,Furosemide,Wrong dose,Severe,Harm,Night,60,2/27/2025,Med-Surg,Male
+516,Metformin,Omission,Severe,No harm,Night,86,5/18/2025,Pediatrics,Female
+517,Heparin,Omission,Moderate,No harm,Night,58,12/9/2024,Pediatrics,Male
+518,Heparin,Delay,Mild,No harm,Night,41,1/7/2025,ER,Female
+519,Warfarin,Omission,Moderate,No harm,Night,9,12/22/2024,Pediatrics,Male
+520,Insulin,Omission,Mild,Harm,Night,39,1/31/2025,Oncology,Male
+521,Heparin,Delay,Mild,No harm,Day,17,8/8/2025,Med-Surg,Male
+522,Morphine,Wrong route,Moderate,No harm,Night,74,5/6/2025,ICU,Female
+523,Heparin,Wrong route,Mild,No harm,Night,78,3/17/2025,ICU,Male
+524,Heparin,Wrong dose,Moderate,No harm,Day,75,8/18/2025,ER,Male
+525,Heparin,Wrong dose,Severe,No harm,Night,45,9/7/2025,ICU,Male
+526,Furosemide,Wrong route,Mild,No harm,Night,45,10/2/2025,ICU,Female
+527,Metformin,Delay,Moderate,No harm,Day,54,11/9/2024,Med-Surg,Female
+528,Insulin,Wrong patient,Severe,No harm,Day,43,4/27/2025,Pediatrics,Female
+529,Morphine,Delay,Mild,Death,Night,40,3/1/2025,ICU,Female
+530,Insulin,Wrong route,Moderate,Harm,Day,9,9/12/2025,Oncology,Male
+531,Furosemide,Wrong route,Mild,No harm,Day,43,9/17/2025,Oncology,Male
+532,Warfarin,Wrong dose,Mild,No harm,Day,88,4/11/2025,ER,Female
+533,Aspirin,Delay,Mild,Death,Day,62,1/22/2025,ICU,Male
+534,Furosemide,Wrong dose,Mild,No harm,Day,16,5/24/2025,Med-Surg,Male
+535,Morphine,Omission,Moderate,No harm,Day,57,11/3/2024,Med-Surg,Female
+536,Warfarin,Wrong dose,Mild,No harm,Night,43,8/1/2025,Med-Surg,Male
+537,Warfarin,Delay,Moderate,No harm,Day,5,4/28/2025,Oncology,Female
+538,Furosemide,Wrong patient,Mild,Harm,Day,81,7/4/2025,ER,Female
+539,Aspirin,Wrong route,Moderate,Death,Night,59,10/27/2024,ICU,Male
+540,Aspirin,Wrong patient,Mild,Harm,Night,54,10/11/2025,Med-Surg,Male
+541,Aspirin,Wrong route,Moderate,Death,Day,75,8/2/2025,ER,Female
+542,Aspirin,Omission,Severe,Harm,Night,70,8/11/2025,Pediatrics,Female
+543,Metformin,Wrong patient,Moderate,No harm,Day,56,8/15/2025,ER,Male
+544,Heparin,Delay,Mild,No harm,Day,36,3/31/2025,ER,Male
+545,Amoxicillin,Wrong dose,Mild,Death,Day,63,1/23/2025,Pediatrics,Male
+546,Aspirin,Wrong patient,Severe,No harm,Night,91,11/28/2024,ER,Female
+547,Aspirin,Omission,Severe,No harm,Day,78,4/22/2025,Oncology,Male
+548,Heparin,Wrong patient,Moderate,No harm,Night,83,1/30/2025,ER,Male
+549,Heparin,Wrong dose,Moderate,Harm,Night,52,2/17/2025,Med-Surg,Female
+550,Aspirin,Wrong dose,Moderate,No harm,Day,42,3/27/2025,Oncology,Male
+551,Insulin,Wrong route,Moderate,Harm,Day,42,11/12/2024,ICU,Female
+552,Metformin,Wrong patient,Mild,No harm,Day,41,3/25/2025,Med-Surg,Female
+553,Amoxicillin,Wrong patient,Mild,No harm,Night,47,1/11/2025,Pediatrics,Female
+554,Furosemide,Wrong route,Mild,Harm,Day,40,2/12/2025,Med-Surg,Male
+555,Morphine,Wrong route,Mild,No harm,Night,9,10/23/2025,Med-Surg,Male
+556,Heparin,Omission,Mild,Death,Day,91,4/18/2025,ICU,Female
+557,Heparin,Wrong patient,Severe,Harm,Day,1,1/27/2025,ICU,Male
+558,Warfarin,Wrong route,Moderate,No harm,Night,18,9/28/2025,Med-Surg,Male
+559,Morphine,Omission,Mild,Harm,Day,4,4/5/2025,Med-Surg,Female
+560,Warfarin,Wrong patient,Severe,No harm,Night,14,1/13/2025,Pediatrics,Male
+561,Amoxicillin,Wrong route,Moderate,Harm,Night,95,4/4/2025,Med-Surg,Female
+562,Warfarin,Wrong patient,Moderate,Harm,Night,51,9/20/2025,Pediatrics,Female
+563,Metformin,Wrong route,Mild,Harm,Night,75,5/28/2025,ER,Male
+564,Metformin,Wrong route,Mild,No harm,Day,53,9/3/2025,Med-Surg,Female
+565,Morphine,Wrong patient,Mild,Harm,Night,78,1/9/2025,Med-Surg,Male
+566,Furosemide,Wrong patient,Severe,Death,Day,70,2/27/2025,Med-Surg,Male
+567,Amoxicillin,Wrong route,Mild,No harm,Night,3,6/11/2025,Oncology,Male
+568,Insulin,Wrong route,Moderate,Death,Night,25,4/23/2025,Oncology,Female
+569,Morphine,Omission,Mild,Harm,Day,80,4/4/2025,Oncology,Male
+570,Aspirin,Delay,Severe,No harm,Night,48,10/29/2024,Oncology,Male
+571,Heparin,Omission,Severe,Harm,Night,95,5/18/2025,Pediatrics,Male
+572,Metformin,Wrong patient,Severe,No harm,Night,91,9/28/2025,ICU,Male
+573,Metformin,Wrong patient,Moderate,No harm,Night,7,1/5/2025,ER,Female
+574,Metformin,Delay,Mild,No harm,Night,47,11/5/2024,Med-Surg,Female
+575,Morphine,Delay,Mild,No harm,Day,44,5/22/2025,Med-Surg,Male
+576,Furosemide,Wrong patient,Mild,Harm,Night,47,3/31/2025,Pediatrics,Male
+577,Warfarin,Wrong route,Moderate,No harm,Day,84,10/7/2025,Pediatrics,Male
+578,Aspirin,Omission,Moderate,No harm,Night,43,3/18/2025,ICU,Female
+579,Warfarin,Wrong patient,Moderate,No harm,Night,69,7/5/2025,ICU,Male
+580,Amoxicillin,Delay,Severe,Death,Night,89,8/10/2025,ICU,Male
+581,Warfarin,Wrong route,Mild,Harm,Night,37,7/9/2025,Pediatrics,Female
+582,Insulin,Wrong route,Moderate,No harm,Night,33,3/4/2025,Oncology,Male
+583,Metformin,Delay,Mild,No harm,Day,78,4/3/2025,Oncology,Male
+584,Aspirin,Omission,Mild,No harm,Night,76,11/13/2024,ICU,Male
+585,Metformin,Delay,Moderate,No harm,Night,52,1/16/2025,Med-Surg,Female
+586,Aspirin,Wrong patient,Mild,Harm,Night,6,11/20/2024,ICU,Female
+587,Warfarin,Wrong patient,Moderate,No harm,Night,75,5/8/2025,Pediatrics,Male
+588,Metformin,Delay,Mild,Death,Day,56,10/25/2025,ICU,Male
+589,Insulin,Wrong route,Mild,Harm,Night,9,1/3/2025,ICU,Female
+590,Warfarin,Delay,Mild,Harm,Night,47,5/26/2025,Oncology,Male
+591,Heparin,Omission,Mild,Harm,Night,74,6/9/2025,Oncology,Male
+592,Metformin,Wrong route,Moderate,Death,Night,2,3/27/2025,ER,Female
+593,Warfarin,Delay,Severe,No harm,Night,58,9/22/2025,ICU,Female
+594,Heparin,Omission,Severe,Harm,Night,79,7/8/2025,ER,Female
+595,Aspirin,Wrong route,Severe,Death,Night,40,8/2/2025,ICU,Female
+596,Heparin,Omission,Moderate,Death,Night,21,2/6/2025,Pediatrics,Male
+597,Aspirin,Wrong dose,Mild,No harm,Day,71,6/3/2025,ER,Male
+598,Heparin,Delay,Moderate,No harm,Night,33,1/12/2025,Pediatrics,Female
+599,Metformin,Wrong dose,Mild,Harm,Day,76,11/18/2024,Pediatrics,Female
+600,Insulin,Delay,Mild,Harm,Night,36,7/20/2025,Pediatrics,Male
+601,Insulin,Delay,Moderate,No harm,Day,32,3/15/2025,ER,Female
+602,Metformin,Wrong route,Moderate,Death,Night,78,2/1/2025,Med-Surg,Male
+603,Insulin,Wrong route,Mild,No harm,Night,72,11/1/2024,ER,Female
+604,Metformin,Wrong patient,Moderate,Harm,Day,37,4/18/2025,Pediatrics,Male
+605,Warfarin,Wrong route,Mild,Harm,Night,54,12/19/2024,Pediatrics,Female
+606,Aspirin,Delay,Mild,Harm,Day,66,11/16/2024,Oncology,Female
+607,Furosemide,Wrong dose,Moderate,Death,Day,17,1/25/2025,Pediatrics,Male
+608,Warfarin,Wrong dose,Mild,No harm,Night,35,2/27/2025,Med-Surg,Male
+609,Amoxicillin,Wrong route,Moderate,Death,Day,35,4/16/2025,Med-Surg,Female
+610,Warfarin,Wrong dose,Moderate,No harm,Day,37,1/6/2025,Med-Surg,Male
+611,Insulin,Wrong route,Mild,No harm,Night,60,7/23/2025,ICU,Male
+612,Aspirin,Wrong dose,Severe,Harm,Day,82,4/26/2025,Oncology,Female
+613,Amoxicillin,Delay,Moderate,Death,Night,14,11/19/2024,Pediatrics,Male
+614,Amoxicillin,Wrong patient,Moderate,Harm,Night,54,5/17/2025,Med-Surg,Male
+615,Morphine,Wrong dose,Moderate,No harm,Night,64,7/24/2025,Med-Surg,Male
+616,Metformin,Omission,Moderate,No harm,Day,88,9/5/2025,Pediatrics,Male
+617,Morphine,Delay,Moderate,No harm,Night,9,10/24/2025,Pediatrics,Female
+618,Metformin,Wrong route,Moderate,Harm,Night,75,9/4/2025,ER,Male
+619,Insulin,Delay,Moderate,No harm,Night,11,8/9/2025,Pediatrics,Male
+620,Amoxicillin,Delay,Mild,Harm,Night,47,7/25/2025,ICU,Male
+621,Morphine,Wrong dose,Moderate,No harm,Day,8,5/4/2025,Pediatrics,Male
+622,Insulin,Wrong route,Mild,No harm,Day,30,2/24/2025,Oncology,Male
+623,Heparin,Wrong patient,Severe,Harm,Night,2,3/17/2025,Pediatrics,Male
+624,Metformin,Wrong route,Severe,No harm,Day,75,10/20/2025,Oncology,Female
+625,Aspirin,Delay,Mild,No harm,Night,94,4/6/2025,Pediatrics,Female
+626,Heparin,Omission,Severe,Harm,Night,2,3/8/2025,ER,Male
+627,Aspirin,Omission,Mild,Harm,Day,36,12/25/2024,Med-Surg,Female
+628,Heparin,Wrong patient,Mild,Harm,Night,6,7/15/2025,ICU,Male
+629,Aspirin,Wrong patient,Mild,Harm,Day,56,2/9/2025,Med-Surg,Female
+630,Aspirin,Wrong dose,Mild,Death,Day,56,8/10/2025,ICU,Male
+631,Furosemide,Wrong patient,Mild,Harm,Night,52,11/24/2024,Med-Surg,Male
+632,Furosemide,Omission,Moderate,Death,Night,16,6/11/2025,Med-Surg,Female
+633,Heparin,Wrong dose,Mild,No harm,Night,76,4/29/2025,ICU,Male
+634,Heparin,Delay,Mild,No harm,Night,30,6/15/2025,ICU,Male
+635,Amoxicillin,Wrong dose,Mild,No harm,Night,50,9/13/2025,ER,Female
+636,Morphine,Omission,Moderate,Harm,Night,83,6/14/2025,Oncology,Male
+637,Heparin,Wrong patient,Severe,No harm,Day,3,1/24/2025,ICU,Female
+638,Amoxicillin,Omission,Moderate,Harm,Day,56,6/3/2025,Oncology,Female
+639,Metformin,Wrong patient,Mild,Harm,Night,4,3/20/2025,Med-Surg,Female
+640,Insulin,Wrong patient,Moderate,Harm,Day,19,2/4/2025,Med-Surg,Female
+641,Metformin,Wrong dose,Mild,Harm,Night,2,11/7/2024,ER,Female
+642,Heparin,Omission,Moderate,Death,Day,47,10/5/2025,Pediatrics,Female
+643,Warfarin,Omission,Moderate,No harm,Day,50,8/1/2025,ER,Female
+644,Metformin,Delay,Moderate,Harm,Night,45,11/2/2024,Oncology,Male
+645,Furosemide,Delay,Mild,No harm,Night,71,1/20/2025,Pediatrics,Female
+646,Morphine,Wrong dose,Severe,Death,Night,53,6/5/2025,Oncology,Female
+647,Morphine,Omission,Severe,Harm,Night,59,3/19/2025,Pediatrics,Female
+648,Amoxicillin,Wrong route,Moderate,Harm,Night,27,9/8/2025,Oncology,Male
+649,Aspirin,Wrong patient,Severe,Harm,Night,79,3/12/2025,Med-Surg,Female
+650,Insulin,Wrong route,Mild,Harm,Night,24,5/26/2025,ER,Female
+651,Warfarin,Wrong patient,Mild,No harm,Night,20,10/29/2024,ER,Female
+652,Warfarin,Delay,Mild,No harm,Night,24,10/14/2025,ER,Male
+653,Metformin,Wrong dose,Moderate,No harm,Night,4,6/6/2025,ICU,Male
+654,Metformin,Wrong route,Severe,No harm,Day,59,2/11/2025,Pediatrics,Female
+655,Insulin,Delay,Mild,No harm,Day,74,4/15/2025,ICU,Female
+656,Warfarin,Wrong dose,Moderate,Harm,Night,17,2/22/2025,Pediatrics,Female
+657,Morphine,Wrong route,Moderate,Harm,Night,85,10/6/2025,Oncology,Male
+658,Heparin,Wrong route,Mild,No harm,Day,11,3/3/2025,ER,Male
+659,Morphine,Omission,Severe,No harm,Day,57,9/16/2025,ER,Male
+660,Morphine,Wrong route,Severe,No harm,Day,43,2/3/2025,ER,Male
+661,Furosemide,Wrong route,Moderate,Harm,Night,47,4/6/2025,Oncology,Female
+662,Metformin,Omission,Severe,Harm,Night,75,8/28/2025,ICU,Male
+663,Morphine,Delay,Moderate,Harm,Day,21,7/29/2025,Med-Surg,Female
+664,Furosemide,Delay,Severe,No harm,Night,49,12/14/2024,ICU,Male
+665,Warfarin,Omission,Moderate,Harm,Day,45,2/12/2025,Pediatrics,Female
+666,Warfarin,Omission,Mild,No harm,Night,25,9/25/2025,Oncology,Male
+667,Morphine,Wrong dose,Mild,Harm,Night,6,10/18/2025,ER,Female
+668,Metformin,Wrong dose,Moderate,No harm,Night,47,8/8/2025,Oncology,Male
+669,Furosemide,Delay,Moderate,No harm,Night,18,10/30/2024,ICU,Male
+670,Morphine,Delay,Moderate,No harm,Night,53,9/10/2025,Oncology,Male
+671,Furosemide,Omission,Moderate,Harm,Night,58,7/10/2025,ICU,Female
+672,Heparin,Delay,Mild,No harm,Night,26,8/5/2025,Med-Surg,Female
+673,Morphine,Wrong route,Severe,Harm,Day,81,12/15/2024,Oncology,Male
+674,Morphine,Omission,Severe,No harm,Night,25,5/8/2025,ER,Female
+675,Warfarin,Wrong patient,Moderate,No harm,Day,39,6/9/2025,Oncology,Female
+676,Amoxicillin,Delay,Moderate,Harm,Day,31,6/9/2025,ICU,Male
+677,Furosemide,Wrong route,Moderate,No harm,Day,33,9/27/2025,Oncology,Male
+678,Warfarin,Wrong route,Moderate,Death,Night,71,11/13/2024,Pediatrics,Female
+679,Aspirin,Wrong dose,Mild,No harm,Night,68,10/7/2025,ICU,Male
+680,Furosemide,Delay,Moderate,No harm,Day,42,3/5/2025,Pediatrics,Female
+681,Morphine,Wrong dose,Mild,Harm,Day,33,5/8/2025,Pediatrics,Male
+682,Metformin,Delay,Mild,No harm,Day,73,6/16/2025,Oncology,Female
+683,Furosemide,Wrong patient,Moderate,No harm,Night,43,11/24/2024,ICU,Male
+684,Warfarin,Wrong patient,Severe,Harm,Night,10,1/19/2025,ICU,Male
+685,Amoxicillin,Wrong route,Moderate,No harm,Day,41,8/19/2025,ICU,Male
+686,Morphine,Wrong route,Mild,Harm,Day,83,2/22/2025,Pediatrics,Female
+687,Metformin,Omission,Moderate,No harm,Night,82,3/9/2025,Med-Surg,Female
+688,Aspirin,Omission,Moderate,No harm,Night,59,2/18/2025,ER,Male
+689,Amoxicillin,Omission,Moderate,No harm,Day,39,12/27/2024,Oncology,Male
+690,Metformin,Wrong patient,Severe,No harm,Night,1,5/31/2025,Pediatrics,Male
+691,Amoxicillin,Delay,Moderate,No harm,Night,17,7/3/2025,Oncology,Male
+692,Insulin,Wrong patient,Moderate,No harm,Day,36,6/4/2025,ICU,Male
+693,Warfarin,Wrong dose,Moderate,No harm,Day,10,1/3/2025,Med-Surg,Female
+694,Warfarin,Wrong patient,Moderate,Death,Night,15,8/8/2025,ER,Male
+695,Insulin,Wrong route,Mild,No harm,Night,22,2/11/2025,Oncology,Male
+696,Warfarin,Wrong patient,Mild,No harm,Night,15,12/12/2024,Pediatrics,Female
+697,Morphine,Wrong patient,Moderate,No harm,Day,12,10/2/2025,Pediatrics,Female
+698,Metformin,Omission,Severe,No harm,Night,56,1/21/2025,ER,Male
+699,Heparin,Wrong route,Moderate,Harm,Night,2,12/7/2024,Pediatrics,Male
+700,Metformin,Wrong dose,Mild,No harm,Day,52,8/21/2025,Oncology,Female
+701,Furosemide,Delay,Severe,Harm,Day,73,12/15/2024,Med-Surg,Male
+702,Metformin,Omission,Moderate,Death,Night,82,11/8/2024,ER,Male
+703,Amoxicillin,Delay,Moderate,No harm,Night,13,9/9/2025,Med-Surg,Male
+704,Aspirin,Delay,Severe,No harm,Night,83,4/14/2025,Oncology,Male
+705,Amoxicillin,Omission,Mild,No harm,Night,77,9/20/2025,ICU,Male
+706,Furosemide,Delay,Moderate,No harm,Night,14,11/19/2024,Med-Surg,Male
+707,Furosemide,Wrong patient,Mild,Harm,Night,63,3/23/2025,ER,Female
+708,Insulin,Wrong patient,Mild,Harm,Night,8,12/22/2024,ICU,Female
+709,Morphine,Delay,Moderate,No harm,Day,70,3/7/2025,ICU,Female
+710,Warfarin,Wrong dose,Mild,No harm,Night,82,11/7/2024,Oncology,Female
+711,Metformin,Wrong patient,Mild,Harm,Day,24,8/10/2025,ICU,Male
+712,Furosemide,Wrong route,Mild,No harm,Day,44,2/4/2025,Oncology,Male
+713,Insulin,Omission,Mild,No harm,Night,51,9/12/2025,ICU,Female
+714,Heparin,Wrong route,Mild,Harm,Night,19,5/19/2025,ICU,Female
+715,Amoxicillin,Omission,Mild,No harm,Night,14,8/6/2025,Pediatrics,Female
+716,Heparin,Wrong dose,Mild,No harm,Night,7,3/17/2025,Pediatrics,Male
+717,Heparin,Delay,Moderate,Harm,Night,59,4/8/2025,Med-Surg,Female
+718,Heparin,Wrong patient,Mild,No harm,Day,39,10/12/2025,Oncology,Female
+719,Warfarin,Wrong dose,Moderate,Death,Day,1,1/11/2025,ICU,Male
+720,Warfarin,Wrong dose,Mild,Death,Night,6,10/11/2025,Oncology,Male
+721,Insulin,Wrong route,Severe,No harm,Night,2,10/2/2025,Med-Surg,Male
+722,Heparin,Wrong route,Moderate,No harm,Night,23,2/27/2025,ICU,Male
+723,Warfarin,Delay,Moderate,No harm,Night,46,1/9/2025,Pediatrics,Female
+724,Furosemide,Delay,Mild,No harm,Night,60,6/4/2025,ICU,Female
+725,Warfarin,Wrong dose,Mild,Harm,Night,90,11/3/2024,ER,Male
+726,Aspirin,Wrong route,Mild,No harm,Day,4,4/2/2025,Med-Surg,Male
+727,Amoxicillin,Omission,Severe,Harm,Night,44,8/13/2025,Med-Surg,Female
+728,Heparin,Wrong patient,Mild,Harm,Day,31,8/12/2025,ER,Female
+729,Heparin,Omission,Moderate,Harm,Day,40,11/5/2024,ER,Female
+730,Heparin,Omission,Mild,Harm,Night,94,11/23/2024,ICU,Male
+731,Insulin,Wrong patient,Mild,No harm,Day,59,8/12/2025,Med-Surg,Female
+732,Furosemide,Wrong dose,Mild,Harm,Night,68,12/16/2024,ER,Male
+733,Morphine,Delay,Mild,No harm,Night,26,6/8/2025,Pediatrics,Male
+734,Amoxicillin,Delay,Severe,Harm,Day,18,8/15/2025,Oncology,Male
+735,Aspirin,Omission,Mild,Harm,Night,27,5/12/2025,Oncology,Male
+736,Warfarin,Delay,Mild,No harm,Night,28,6/23/2025,ICU,Male
+737,Amoxicillin,Delay,Moderate,Harm,Day,69,9/13/2025,Pediatrics,Female
+738,Furosemide,Omission,Moderate,Harm,Day,21,2/2/2025,Pediatrics,Female
+739,Metformin,Wrong patient,Moderate,No harm,Night,35,2/3/2025,ICU,Female
+740,Insulin,Delay,Mild,Harm,Night,34,3/3/2025,Med-Surg,Male
+741,Warfarin,Delay,Mild,No harm,Night,56,6/18/2025,Oncology,Male
+742,Amoxicillin,Delay,Moderate,No harm,Night,90,9/28/2025,ICU,Female
+743,Heparin,Wrong route,Severe,No harm,Night,69,7/8/2025,ICU,Female
+744,Warfarin,Wrong patient,Mild,Harm,Day,69,11/7/2024,Oncology,Female
+745,Morphine,Wrong patient,Moderate,Death,Day,15,5/2/2025,ICU,Female
+746,Heparin,Wrong route,Moderate,No harm,Day,46,12/20/2024,Med-Surg,Male
+747,Amoxicillin,Wrong dose,Moderate,Death,Night,54,4/11/2025,Oncology,Male
+748,Amoxicillin,Omission,Moderate,Harm,Night,25,8/21/2025,Pediatrics,Male
+749,Aspirin,Omission,Severe,Harm,Night,41,1/11/2025,Oncology,Female
+750,Warfarin,Wrong dose,Moderate,No harm,Night,33,12/12/2024,Oncology,Female
+751,Warfarin,Omission,Moderate,No harm,Night,8,3/8/2025,ICU,Male
+752,Furosemide,Delay,Mild,No harm,Day,5,1/9/2025,ER,Male
+753,Furosemide,Wrong patient,Moderate,Death,Night,59,12/1/2024,ER,Male
+754,Morphine,Wrong dose,Moderate,Death,Day,51,12/14/2024,ER,Female
+755,Furosemide,Wrong patient,Moderate,No harm,Night,44,7/2/2025,Pediatrics,Female
+756,Warfarin,Omission,Mild,Death,Day,7,11/12/2024,Oncology,Female
+757,Aspirin,Wrong dose,Moderate,No harm,Day,18,6/29/2025,Pediatrics,Male
+758,Warfarin,Wrong route,Mild,Harm,Night,44,3/20/2025,Oncology,Female
+759,Morphine,Wrong route,Mild,No harm,Day,20,8/3/2025,ICU,Female
+760,Amoxicillin,Wrong dose,Moderate,Harm,Night,64,10/22/2025,Med-Surg,Male
+761,Warfarin,Wrong route,Moderate,No harm,Day,29,2/22/2025,Pediatrics,Female
+762,Furosemide,Omission,Mild,No harm,Night,47,7/1/2025,ICU,Female
+763,Furosemide,Wrong dose,Moderate,Harm,Day,63,12/7/2024,Oncology,Female
+764,Insulin,Wrong route,Mild,Death,Night,52,5/18/2025,ER,Female
+765,Warfarin,Delay,Mild,No harm,Night,67,8/1/2025,Pediatrics,Female
+766,Morphine,Wrong dose,Mild,Harm,Night,34,3/5/2025,Pediatrics,Male
+767,Morphine,Delay,Moderate,No harm,Night,8,9/6/2025,ER,Male
+768,Insulin,Wrong route,Moderate,Death,Night,7,8/18/2025,ER,Male
+769,Heparin,Omission,Moderate,Harm,Night,43,5/19/2025,ER,Male
+770,Furosemide,Wrong patient,Mild,Death,Night,10,6/5/2025,ICU,Male
+771,Insulin,Wrong patient,Mild,No harm,Night,47,1/16/2025,Oncology,Male
+772,Insulin,Wrong dose,Moderate,No harm,Night,68,2/10/2025,Oncology,Female
+773,Insulin,Wrong route,Moderate,Harm,Night,61,10/31/2024,Med-Surg,Female
+774,Morphine,Delay,Severe,No harm,Day,33,12/26/2024,Oncology,Female
+775,Morphine,Omission,Moderate,Harm,Day,60,3/16/2025,Med-Surg,Male
+776,Amoxicillin,Delay,Mild,No harm,Day,76,6/19/2025,ER,Male
+777,Insulin,Wrong route,Moderate,Harm,Day,25,7/14/2025,ICU,Female
+778,Heparin,Delay,Mild,No harm,Day,36,7/7/2025,Oncology,Female
+779,Furosemide,Omission,Severe,No harm,Night,29,2/3/2025,ICU,Male
+780,Insulin,Wrong route,Moderate,No harm,Day,14,9/24/2025,Oncology,Female
+781,Insulin,Wrong patient,Severe,Harm,Day,31,8/5/2025,Oncology,Female
+782,Insulin,Wrong dose,Mild,No harm,Night,24,12/30/2024,ER,Male
+783,Amoxicillin,Wrong dose,Mild,No harm,Night,58,6/8/2025,ER,Male
+784,Furosemide,Wrong route,Mild,No harm,Night,41,10/19/2025,Med-Surg,Male
+785,Insulin,Wrong patient,Severe,No harm,Night,46,12/5/2024,Med-Surg,Female
+786,Warfarin,Wrong patient,Moderate,Harm,Night,81,9/27/2025,Med-Surg,Male
+787,Heparin,Wrong route,Moderate,No harm,Day,71,9/1/2025,Pediatrics,Female
+788,Insulin,Wrong route,Moderate,No harm,Day,91,6/8/2025,Pediatrics,Male
+789,Amoxicillin,Delay,Mild,Death,Night,43,2/20/2025,Med-Surg,Female
+790,Heparin,Wrong route,Moderate,No harm,Night,62,1/28/2025,Pediatrics,Male
+791,Amoxicillin,Omission,Severe,Harm,Day,67,10/26/2025,ICU,Female
+792,Heparin,Wrong dose,Mild,No harm,Night,59,8/25/2025,Med-Surg,Female
+793,Warfarin,Wrong dose,Moderate,Death,Day,65,8/22/2025,Oncology,Female
+794,Heparin,Wrong dose,Mild,Harm,Night,34,12/3/2024,Oncology,Male
+795,Insulin,Wrong route,Moderate,Harm,Night,40,7/18/2025,Pediatrics,Female
+796,Morphine,Wrong dose,Moderate,Harm,Night,47,12/20/2024,Oncology,Male
+797,Insulin,Wrong patient,Mild,No harm,Night,4,12/27/2024,ICU,Female
+798,Insulin,Omission,Moderate,No harm,Night,91,8/4/2025,Pediatrics,Male
+799,Furosemide,Wrong route,Moderate,Harm,Night,22,8/31/2025,ER,Female
+800,Insulin,Delay,Mild,Harm,Day,3,12/29/2024,Pediatrics,Female
+801,Metformin,Wrong route,Severe,Harm,Day,10,9/15/2025,Oncology,Female
+802,Furosemide,Wrong dose,Mild,Death,Day,60,2/2/2025,Oncology,Female
+803,Amoxicillin,Wrong route,Moderate,Death,Night,44,11/11/2024,Oncology,Female
+804,Warfarin,Omission,Moderate,No harm,Night,25,10/19/2025,Oncology,Male
+805,Insulin,Delay,Mild,Death,Night,26,12/16/2024,Med-Surg,Female
+806,Amoxicillin,Omission,Severe,No harm,Night,27,9/3/2025,ICU,Male
+807,Warfarin,Omission,Mild,No harm,Day,31,5/18/2025,Med-Surg,Male
+808,Heparin,Wrong dose,Mild,Harm,Night,50,4/20/2025,Med-Surg,Female
+809,Aspirin,Delay,Moderate,Harm,Day,18,6/15/2025,ER,Male
+810,Warfarin,Omission,Moderate,No harm,Night,76,1/26/2025,ICU,Male
+811,Warfarin,Wrong patient,Mild,No harm,Night,30,6/1/2025,ICU,Male
+812,Furosemide,Wrong dose,Severe,No harm,Night,6,11/8/2024,Oncology,Male
+813,Aspirin,Wrong patient,Mild,Harm,Night,88,3/30/2025,Oncology,Male
+814,Metformin,Delay,Severe,No harm,Day,63,5/14/2025,Pediatrics,Female
+815,Morphine,Omission,Moderate,No harm,Night,25,4/9/2025,Pediatrics,Male
+816,Morphine,Wrong route,Moderate,Harm,Day,82,8/6/2025,ER,Male
+817,Metformin,Delay,Mild,No harm,Night,75,9/19/2025,ER,Male
+818,Insulin,Wrong route,Mild,No harm,Night,66,6/17/2025,ER,Male
+819,Morphine,Omission,Severe,No harm,Day,34,8/7/2025,ER,Female
+820,Aspirin,Wrong patient,Moderate,No harm,Day,81,10/26/2025,ICU,Female
+821,Aspirin,Omission,Severe,No harm,Day,71,4/16/2025,ICU,Male
+822,Morphine,Delay,Mild,Harm,Day,65,9/9/2025,Pediatrics,Male
+823,Morphine,Wrong route,Severe,No harm,Night,76,6/19/2025,Oncology,Female
+824,Furosemide,Wrong dose,Severe,No harm,Day,91,9/12/2025,Med-Surg,Male
+825,Insulin,Omission,Moderate,Death,Night,28,11/25/2024,Pediatrics,Female
+826,Aspirin,Wrong route,Moderate,Harm,Day,37,3/3/2025,Oncology,Female
+827,Insulin,Omission,Severe,Harm,Night,92,5/25/2025,ER,Male
+828,Warfarin,Wrong dose,Moderate,No harm,Night,81,9/30/2025,Med-Surg,Female
+829,Metformin,Wrong patient,Mild,Death,Night,26,12/17/2024,Oncology,Female
+830,Insulin,Wrong dose,Moderate,Death,Night,10,9/13/2025,ICU,Female
+831,Aspirin,Delay,Moderate,Harm,Night,14,1/1/2025,ER,Male
+832,Insulin,Wrong dose,Moderate,No harm,Night,85,7/6/2025,Oncology,Female
+833,Aspirin,Wrong route,Mild,No harm,Day,40,11/5/2024,Pediatrics,Male
+834,Heparin,Wrong dose,Mild,Harm,Day,47,10/7/2025,Med-Surg,Female
+835,Insulin,Omission,Moderate,No harm,Day,87,11/8/2024,Med-Surg,Male
+836,Metformin,Omission,Mild,No harm,Night,22,4/18/2025,ER,Male
+837,Warfarin,Wrong route,Moderate,No harm,Night,47,12/24/2024,Med-Surg,Male
+838,Aspirin,Wrong route,Severe,Harm,Day,74,8/25/2025,ER,Female
+839,Aspirin,Wrong route,Severe,No harm,Day,43,12/8/2024,Oncology,Female
+840,Aspirin,Wrong route,Mild,No harm,Night,40,12/28/2024,Med-Surg,Male
+841,Insulin,Wrong patient,Moderate,No harm,Day,55,9/4/2025,Pediatrics,Male
+842,Furosemide,Wrong dose,Moderate,Harm,Day,86,11/5/2024,Oncology,Female
+843,Insulin,Delay,Moderate,No harm,Night,87,5/6/2025,Oncology,Male
+844,Warfarin,Wrong patient,Moderate,No harm,Night,90,2/14/2025,ER,Male
+845,Warfarin,Wrong route,Moderate,Harm,Day,20,10/7/2025,ICU,Male
+846,Metformin,Delay,Mild,No harm,Day,37,1/29/2025,Oncology,Male
+847,Amoxicillin,Wrong patient,Severe,Death,Day,64,9/26/2025,ICU,Female
+848,Aspirin,Wrong route,Severe,Death,Night,1,9/25/2025,ER,Female
+849,Heparin,Wrong dose,Mild,Harm,Night,26,10/30/2024,Pediatrics,Female
+850,Amoxicillin,Omission,Severe,No harm,Night,25,9/7/2025,Pediatrics,Male
+851,Furosemide,Omission,Mild,No harm,Night,19,5/21/2025,Pediatrics,Male
+852,Aspirin,Wrong dose,Mild,Harm,Day,59,9/12/2025,ER,Female
+853,Amoxicillin,Wrong dose,Mild,No harm,Night,48,5/24/2025,ER,Female
+854,Aspirin,Wrong dose,Severe,No harm,Day,82,11/29/2024,ER,Male
+855,Insulin,Omission,Moderate,No harm,Night,84,1/12/2025,Med-Surg,Female
+856,Furosemide,Omission,Severe,Harm,Day,5,11/30/2024,ER,Male
+857,Heparin,Wrong dose,Severe,Death,Day,46,10/10/2025,ER,Female
+858,Insulin,Omission,Mild,No harm,Day,21,12/2/2024,Pediatrics,Male
+859,Amoxicillin,Delay,Mild,Harm,Night,35,5/21/2025,Med-Surg,Male
+860,Aspirin,Wrong patient,Severe,Harm,Day,86,3/15/2025,Pediatrics,Female
+861,Amoxicillin,Wrong route,Moderate,Harm,Night,34,4/14/2025,ICU,Male
+862,Warfarin,Wrong route,Severe,No harm,Night,25,2/10/2025,ER,Female
+863,Morphine,Wrong patient,Severe,Harm,Night,44,5/1/2025,Med-Surg,Male
+864,Amoxicillin,Wrong patient,Moderate,No harm,Night,37,2/15/2025,Oncology,Female
+865,Morphine,Wrong patient,Severe,No harm,Day,35,10/1/2025,Med-Surg,Male
+866,Heparin,Delay,Mild,Harm,Day,7,7/16/2025,ICU,Male
+867,Insulin,Omission,Severe,Harm,Day,12,9/8/2025,Med-Surg,Male
+868,Insulin,Wrong dose,Moderate,No harm,Night,45,6/24/2025,Med-Surg,Female
+869,Metformin,Omission,Severe,No harm,Day,24,9/1/2025,ER,Female
+870,Amoxicillin,Wrong route,Severe,No harm,Night,33,9/30/2025,ER,Female
+871,Warfarin,Omission,Mild,No harm,Night,52,4/7/2025,ICU,Male
+872,Aspirin,Wrong patient,Moderate,Death,Day,12,8/24/2025,Med-Surg,Male
+873,Heparin,Wrong patient,Severe,Harm,Day,72,9/4/2025,Oncology,Male
+874,Morphine,Wrong route,Moderate,Harm,Night,50,11/16/2024,ER,Male
+875,Warfarin,Wrong route,Moderate,Harm,Day,68,4/18/2025,Med-Surg,Male
+876,Furosemide,Wrong dose,Moderate,Harm,Day,42,5/31/2025,Med-Surg,Male
+877,Morphine,Wrong patient,Mild,Harm,Night,49,4/30/2025,ER,Female
+878,Aspirin,Wrong dose,Severe,No harm,Night,92,5/2/2025,ICU,Male
+879,Heparin,Wrong route,Mild,Death,Day,23,10/3/2025,Pediatrics,Male
+880,Aspirin,Delay,Severe,Harm,Day,89,10/21/2025,Oncology,Male
+881,Amoxicillin,Wrong dose,Mild,No harm,Night,95,9/22/2025,ER,Male
+882,Furosemide,Delay,Mild,No harm,Night,64,4/12/2025,ICU,Female
+883,Insulin,Wrong patient,Mild,No harm,Day,12,6/13/2025,ER,Female
+884,Morphine,Wrong patient,Severe,Harm,Night,21,3/2/2025,ER,Male
+885,Amoxicillin,Omission,Moderate,Death,Day,1,1/27/2025,Oncology,Female
+886,Metformin,Wrong route,Moderate,Harm,Night,48,6/13/2025,ICU,Female
+887,Amoxicillin,Delay,Moderate,Harm,Night,80,6/25/2025,ICU,Male
+888,Morphine,Wrong patient,Mild,Harm,Night,50,8/14/2025,Oncology,Male
+889,Aspirin,Delay,Mild,Harm,Night,43,6/22/2025,ER,Male
+890,Heparin,Wrong dose,Mild,No harm,Night,45,9/8/2025,ICU,Male
+891,Furosemide,Omission,Moderate,Harm,Night,23,11/8/2024,Oncology,Female
+892,Aspirin,Wrong route,Moderate,Harm,Day,31,3/3/2025,Med-Surg,Female
+893,Insulin,Wrong patient,Moderate,No harm,Day,31,12/3/2024,Oncology,Female
+894,Heparin,Wrong patient,Moderate,Harm,Night,15,6/4/2025,Oncology,Female
+895,Metformin,Wrong route,Mild,Death,Day,78,12/20/2024,Pediatrics,Female
+896,Morphine,Omission,Mild,Harm,Day,71,8/28/2025,Oncology,Male
+897,Amoxicillin,Wrong patient,Moderate,Harm,Night,71,8/15/2025,ER,Female
+898,Amoxicillin,Delay,Mild,Harm,Day,47,5/5/2025,Med-Surg,Female
+899,Heparin,Wrong route,Moderate,Harm,Day,58,10/24/2025,Med-Surg,Female
+900,Amoxicillin,Omission,Mild,Death,Day,16,7/31/2025,Oncology,Male
+901,Amoxicillin,Wrong route,Mild,No harm,Night,48,11/1/2024,Oncology,Female
+902,Amoxicillin,Delay,Moderate,No harm,Day,79,9/24/2025,Med-Surg,Male
+903,Warfarin,Delay,Moderate,No harm,Day,37,7/9/2025,Med-Surg,Female
+904,Furosemide,Wrong patient,Moderate,Death,Night,80,5/30/2025,ICU,Female
+905,Metformin,Wrong patient,Mild,Death,Night,1,2/26/2025,ICU,Female
+906,Furosemide,Wrong patient,Mild,No harm,Night,20,1/9/2025,Oncology,Male
+907,Morphine,Wrong patient,Moderate,Harm,Night,87,3/20/2025,ER,Male
+908,Amoxicillin,Omission,Moderate,Harm,Day,72,10/22/2025,Med-Surg,Male
+909,Aspirin,Wrong route,Moderate,Harm,Day,24,6/10/2025,ICU,Female
+910,Insulin,Wrong patient,Mild,No harm,Day,79,9/13/2025,Med-Surg,Male
+911,Heparin,Wrong route,Moderate,No harm,Night,94,11/20/2024,Oncology,Female
+912,Heparin,Wrong patient,Mild,Death,Day,4,5/1/2025,Med-Surg,Female
+913,Amoxicillin,Omission,Mild,No harm,Night,95,9/4/2025,ER,Male
+914,Metformin,Delay,Severe,No harm,Night,78,4/21/2025,Med-Surg,Female
+915,Furosemide,Delay,Moderate,No harm,Day,49,1/12/2025,ICU,Female
+916,Morphine,Wrong dose,Severe,No harm,Day,6,10/18/2025,Oncology,Female
+917,Heparin,Omission,Moderate,No harm,Day,35,6/21/2025,ICU,Male
+918,Warfarin,Wrong patient,Severe,Death,Day,9,11/9/2024,Pediatrics,Male
+919,Insulin,Omission,Mild,No harm,Day,28,12/5/2024,Oncology,Male
+920,Amoxicillin,Delay,Severe,Death,Night,7,2/5/2025,Oncology,Male
+921,Aspirin,Wrong route,Moderate,No harm,Night,87,2/11/2025,Med-Surg,Female
+922,Insulin,Delay,Moderate,Harm,Night,52,8/23/2025,ICU,Male
+923,Aspirin,Wrong dose,Moderate,Death,Night,88,6/6/2025,Med-Surg,Female
+924,Morphine,Wrong patient,Moderate,No harm,Night,66,9/29/2025,Med-Surg,Female
+925,Amoxicillin,Omission,Moderate,Harm,Night,87,7/16/2025,Pediatrics,Female
+926,Warfarin,Omission,Mild,No harm,Night,57,1/7/2025,Med-Surg,Male
+927,Aspirin,Wrong route,Moderate,Harm,Night,62,9/3/2025,ER,Male
+928,Morphine,Omission,Moderate,No harm,Night,45,3/10/2025,ER,Male
+929,Amoxicillin,Omission,Mild,No harm,Night,8,12/19/2024,Pediatrics,Female
+930,Amoxicillin,Delay,Moderate,No harm,Day,33,8/13/2025,Med-Surg,Female
+931,Insulin,Wrong patient,Mild,Harm,Day,64,10/23/2025,ICU,Male
+932,Morphine,Delay,Severe,Harm,Day,42,4/30/2025,Pediatrics,Male
+933,Warfarin,Wrong patient,Mild,No harm,Night,59,2/7/2025,Pediatrics,Female
+934,Insulin,Wrong dose,Moderate,Death,Night,83,11/9/2024,ER,Female
+935,Metformin,Wrong patient,Mild,No harm,Night,38,1/12/2025,ER,Male
+936,Heparin,Omission,Mild,Harm,Day,22,12/14/2024,Med-Surg,Male
+937,Morphine,Wrong dose,Mild,No harm,Night,42,6/7/2025,Med-Surg,Male
+938,Furosemide,Omission,Severe,No harm,Day,42,6/23/2025,ICU,Male
+939,Amoxicillin,Omission,Mild,Death,Night,63,6/9/2025,ER,Male
+940,Amoxicillin,Wrong patient,Mild,No harm,Day,28,5/29/2025,Med-Surg,Male
+941,Aspirin,Omission,Moderate,Harm,Night,46,4/29/2025,Oncology,Male
+942,Heparin,Wrong patient,Mild,No harm,Day,40,3/15/2025,Oncology,Male
+943,Aspirin,Omission,Moderate,No harm,Night,75,5/18/2025,Med-Surg,Male
+944,Metformin,Wrong route,Mild,Death,Night,62,10/18/2025,Med-Surg,Female
+945,Metformin,Wrong route,Mild,No harm,Day,53,7/21/2025,Med-Surg,Male
+946,Morphine,Omission,Severe,Harm,Night,69,3/31/2025,ICU,Female
+947,Warfarin,Wrong patient,Mild,No harm,Night,78,11/2/2024,Oncology,Female
+948,Aspirin,Wrong dose,Moderate,No harm,Day,57,6/8/2025,Pediatrics,Female
+949,Aspirin,Wrong dose,Severe,No harm,Night,10,3/26/2025,Pediatrics,Male
+950,Metformin,Wrong dose,Severe,Harm,Day,7,8/4/2025,ICU,Female
+951,Insulin,Wrong route,Moderate,Harm,Day,7,10/16/2025,ICU,Female
+952,Warfarin,Wrong route,Mild,No harm,Day,87,7/21/2025,Oncology,Male
+953,Furosemide,Wrong patient,Moderate,No harm,Night,17,2/22/2025,ER,Female
+954,Furosemide,Omission,Mild,No harm,Night,53,8/18/2025,Pediatrics,Male
+955,Aspirin,Omission,Severe,No harm,Day,76,8/7/2025,Pediatrics,Female
+956,Insulin,Wrong dose,Mild,Harm,Night,22,4/11/2025,Med-Surg,Male
+957,Morphine,Delay,Moderate,No harm,Night,39,9/20/2025,ICU,Female
+958,Metformin,Wrong route,Mild,Harm,Night,78,6/8/2025,Med-Surg,Female
+959,Metformin,Wrong patient,Mild,No harm,Night,37,11/22/2024,ER,Female
+960,Amoxicillin,Omission,Moderate,No harm,Day,13,12/9/2024,ER,Male
+961,Metformin,Wrong route,Moderate,Harm,Night,38,7/16/2025,Oncology,Female
+962,Morphine,Wrong patient,Moderate,Harm,Night,25,11/7/2024,Oncology,Female
+963,Amoxicillin,Wrong patient,Moderate,No harm,Night,41,8/19/2025,Pediatrics,Male
+964,Warfarin,Wrong patient,Severe,Death,Day,91,3/28/2025,ER,Male
+965,Furosemide,Wrong route,Mild,Death,Day,44,2/25/2025,Med-Surg,Male
+966,Heparin,Wrong route,Mild,No harm,Day,29,6/6/2025,Oncology,Male
+967,Aspirin,Delay,Mild,Harm,Night,7,6/28/2025,ICU,Female
+968,Furosemide,Delay,Moderate,Harm,Day,18,1/4/2025,ICU,Male
+969,Heparin,Delay,Moderate,Harm,Day,15,5/14/2025,Oncology,Female
+970,Aspirin,Omission,Severe,Harm,Day,16,2/23/2025,Oncology,Male
+971,Warfarin,Wrong route,Mild,No harm,Night,11,7/26/2025,Med-Surg,Male
+972,Metformin,Delay,Moderate,Harm,Day,54,11/8/2024,ICU,Male
+973,Furosemide,Wrong patient,Severe,Harm,Night,29,6/26/2025,Med-Surg,Male
+974,Morphine,Omission,Mild,No harm,Day,71,9/26/2025,ICU,Male
+975,Morphine,Delay,Severe,Harm,Night,11,8/9/2025,ER,Female
+976,Furosemide,Wrong dose,Mild,No harm,Night,68,12/9/2024,ER,Male
+977,Insulin,Omission,Severe,Harm,Night,57,12/29/2024,ICU,Male
+978,Insulin,Delay,Severe,Harm,Night,93,10/29/2024,Med-Surg,Female
+979,Furosemide,Wrong patient,Moderate,Harm,Night,80,3/21/2025,Med-Surg,Female
+980,Amoxicillin,Wrong dose,Severe,Harm,Night,85,4/23/2025,ICU,Female
+981,Amoxicillin,Wrong route,Moderate,Harm,Night,64,8/29/2025,ER,Male
+982,Furosemide,Omission,Moderate,No harm,Day,34,11/6/2024,Oncology,Female
+983,Metformin,Omission,Severe,Death,Night,87,7/11/2025,Oncology,Male
+984,Insulin,Wrong dose,Mild,Death,Night,92,5/25/2025,ER,Male
+985,Aspirin,Wrong patient,Severe,No harm,Night,86,7/3/2025,Oncology,Male
+986,Morphine,Wrong patient,Mild,No harm,Night,59,6/9/2025,ER,Female
+987,Furosemide,Wrong patient,Mild,No harm,Night,59,11/14/2024,ER,Female
+988,Insulin,Omission,Moderate,Harm,Night,62,11/29/2024,ICU,Female
+989,Amoxicillin,Wrong dose,Moderate,No harm,Night,92,10/11/2025,Oncology,Female
+990,Insulin,Wrong route,Severe,Death,Night,69,8/4/2025,Med-Surg,Female
+991,Morphine,Wrong dose,Mild,Death,Night,34,11/30/2024,Med-Surg,Male
+992,Metformin,Wrong dose,Mild,No harm,Night,70,9/23/2025,ICU,Male
+993,Aspirin,Wrong dose,Moderate,Harm,Night,13,12/8/2024,Oncology,Male
+994,Aspirin,Wrong dose,Severe,No harm,Day,92,4/20/2025,Pediatrics,Female
+995,Insulin,Wrong route,Mild,No harm,Day,54,12/1/2024,Oncology,Female
+996,Metformin,Wrong dose,Severe,Harm,Night,87,10/12/2025,Med-Surg,Female
+997,Insulin,Wrong route,Moderate,Harm,Night,42,8/21/2025,Oncology,Male
+998,Furosemide,Wrong dose,Severe,Death,Night,17,5/5/2025,Oncology,Male
+999,Metformin,Wrong patient,Moderate,Harm,Day,28,2/25/2025,ICU,Male
+1000,Warfarin,Wrong dose,Moderate,Harm,Day,2,7/4/2025,Med-Surg,Male
