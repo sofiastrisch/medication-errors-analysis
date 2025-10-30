@@ -7,17 +7,20 @@ This project analyzes patterns and contributing factors behind medication errors
 The goal is to identify high-risk areas, error trends, and potential targets for intervention to improve medication safety in healthcare settings.
 
 ## Dataset
-The dataset represents **mocked hospital medication error reports**, containing variables such as:  
-- `drug_name`  
-- `error_type`  
-- `severity`  
-- `nurse_shift`  
-- `patient_age`  
-- `patient_sex`  
-- `department`  
-- `outcome`  
+The dataset represents mocked hospital medication error reports, containing variables such as:
 
-**Note:** All data used are anonymized and simulated. No real patient or hospital data are included.
+- drug_name  
+- error_type  
+- severity  
+- nurse_shift  
+- patient_age  
+- patient_sex  
+- department  
+- outcome  
+
+The dataset file is included in this repository under [`data/MOCK_DATA.csv`](./data/MOCK_DATA.csv).
+
+> **Note:** All data used are anonymized and fully simulated. No real patient or hospital information is included.
 
 ## SQL Queries
 All analyses were performed in SQL, and visualizations were created in Google Sheets based on query outputs.
