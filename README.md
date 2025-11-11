@@ -71,5 +71,3 @@ Eight charts were generated in Google Sheets based on SQL outputs, including bar
 
 ## Author
 **Sofia Strisch**  
-Toronto, Canada  
-Registered Nurse | Data & Health Analytics Enthusiast
