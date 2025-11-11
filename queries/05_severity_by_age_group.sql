@@ -1,4 +1,3 @@
--- Query 5: Severity Distribution by Age Group
 SELECT 
   CASE 
     WHEN "patient_age" < 18 THEN 'Child'
